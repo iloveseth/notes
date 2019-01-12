@@ -47,6 +47,14 @@ _.take(array, [n=1])//从数组的起始元素开始提取 N 个元素。
 _.takeRight(array, [n=1])
 _.takeWhile(array, [predicate=_.identity])//从数组的开始提取数组，直到 predicate 返回假值。predicate 会传入三个参数：(value, index, array)。
 _.takeRightWhile(array, [predicate=_.identity])
+_.union([arrays])//创建顺序排列的唯一值组成的数组
+_.unionBy([arrays], [iteratee=_.identity])
+_.unionWith([arrays], [comparator])
+_.uniq(array)
+_.uniqBy(array, [iteratee=_.identity])
+_.uniqWith(array, [comparator])
+_.without(array, [values])//创建一个移除了所有提供的 values 的数组
+_.xor([arrays])//创建一个包含了所有唯一值的数组||By,With
 ```
 
 ### `moment`
