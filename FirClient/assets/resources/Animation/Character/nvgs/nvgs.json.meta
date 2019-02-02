@@ -1,0 +1,27 @@
+{
+  "ver": "1.2.0",
+  "uuid": "9df44092-83cb-42b4-ad86-d131c4c26bad",
+  "textures": [
+    "ad921b0b-76b2-46ec-817d-fecbb01c69ad",
+    "b0bc5f57-572b-48b7-9d6f-f94615cdd255",
+    "bbf8f28d-17ee-4f49-b7cd-6a67fefea2fd",
+    "8664fb6d-4d92-448f-84ca-b78f338a61f8",
+    "0fb08150-7cdb-4158-b799-156d1ce6efe6",
+    "be1853c2-5be7-41ae-a799-c49d816dd570",
+    "322b8246-586a-4002-a062-bee81c71f397",
+    "b3f03d73-6ed7-4438-bc66-8e0bd78bb84b",
+    "2f5cc2b2-5b70-4065-b229-bfa92bea2ab2",
+    "3de57e0a-ede7-4faa-9edb-2908e33bcdd0",
+    "8a4d964e-7bc5-4edb-9163-81f79b3d57e6",
+    "ee90213f-3ea7-43e1-835b-8b3adec0db1d",
+    "0c46b0bf-1974-4b51-bdb5-c293f9ac9ea6",
+    "c2fed684-a319-4e64-933f-ce70df45eb7a",
+    "59a1518d-41f4-4a77-ae31-7e1392988e16",
+    "8300854c-cd60-436c-b299-36c8de3e1f5e",
+    "57abc751-355c-424e-93dc-0d2d4774f6fc",
+    "e9e35dad-cd9f-4758-9296-6cd5e8f7bfee"
+  ],
+  "atlas": "ec98a97e-4c9a-42e4-b653-8be5c8a9b22b",
+  "scale": 1,
+  "subMetas": {}
+}

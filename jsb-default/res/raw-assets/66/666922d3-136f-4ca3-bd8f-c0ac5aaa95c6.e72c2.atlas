@@ -1,0 +1,104 @@
+
+robstar.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+robstar_1
+  rotate: false
+  xy: 2, 319
+  size: 152, 153
+  orig: 300, 200
+  offset: 77, 23
+  index: -1
+robstar_10
+  rotate: false
+  xy: 156, 330
+  size: 161, 142
+  orig: 300, 200
+  offset: 73, 30
+  index: -1
+robstar_11
+  rotate: false
+  xy: 488, 341
+  size: 166, 131
+  orig: 300, 200
+  offset: 71, 34
+  index: -1
+robstar_12
+  rotate: false
+  xy: 823, 341
+  size: 164, 131
+  orig: 300, 200
+  offset: 72, 35
+  index: -1
+robstar_13
+  rotate: false
+  xy: 156, 182
+  size: 156, 146
+  orig: 300, 200
+  offset: 77, 28
+  index: -1
+robstar_14
+  rotate: true
+  xy: 319, 192
+  size: 146, 154
+  orig: 300, 200
+  offset: 80, 23
+  index: -1
+robstar_2
+  rotate: false
+  xy: 771, 193
+  size: 150, 146
+  orig: 300, 200
+  offset: 78, 27
+  index: -1
+robstar_3
+  rotate: false
+  xy: 2, 2
+  size: 142, 160
+  orig: 300, 200
+  offset: 82, 20
+  index: -1
+robstar_4
+  rotate: true
+  xy: 656, 342
+  size: 130, 165
+  orig: 300, 200
+  offset: 89, 17
+  index: -1
+robstar_5
+  rotate: true
+  xy: 319, 340
+  size: 132, 167
+  orig: 300, 200
+  offset: 87, 16
+  index: -1
+robstar_6
+  rotate: true
+  xy: 156, 34
+  size: 146, 154
+  orig: 300, 200
+  offset: 80, 24
+  index: -1
+robstar_7
+  rotate: true
+  xy: 623, 186
+  size: 153, 146
+  orig: 300, 200
+  offset: 77, 27
+  index: -1
+robstar_8
+  rotate: true
+  xy: 2, 164
+  size: 153, 152
+  orig: 300, 200
+  offset: 77, 24
+  index: -1
+robstar_9
+  rotate: false
+  xy: 475, 187
+  size: 146, 151
+  orig: 300, 200
+  offset: 80, 25
+  index: -1

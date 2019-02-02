@@ -1,0 +1,194 @@
+
+geshou.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: true
+  xy: 817, 2
+  size: 115, 194
+  orig: 512, 512
+  offset: 149, 148
+  index: -1
+00001
+  rotate: false
+  xy: 843, 370
+  size: 164, 186
+  orig: 512, 512
+  offset: 147, 156
+  index: -1
+00002
+  rotate: false
+  xy: 259, 336
+  size: 246, 191
+  orig: 512, 512
+  offset: 146, 152
+  index: -1
+00003
+  rotate: true
+  xy: 2, 319
+  size: 206, 222
+  orig: 512, 512
+  offset: 147, 170
+  index: -1
+00004
+  rotate: true
+  xy: 507, 316
+  size: 204, 215
+  orig: 512, 512
+  offset: 148, 170
+  index: -1
+00005
+  rotate: false
+  xy: 226, 134
+  size: 206, 200
+  orig: 512, 512
+  offset: 145, 172
+  index: -1
+00006
+  rotate: false
+  xy: 589, 522
+  size: 252, 237
+  orig: 512, 512
+  offset: 141, 170
+  index: -1
+00007
+  rotate: false
+  xy: 2, 527
+  size: 255, 236
+  orig: 512, 512
+  offset: 138, 171
+  index: -1
+00008
+  rotate: false
+  xy: 327, 529
+  size: 260, 235
+  orig: 512, 512
+  offset: 136, 172
+  index: -1
+00009
+  rotate: false
+  xy: 649, 761
+  size: 303, 253
+  orig: 512, 512
+  offset: 134, 172
+  index: -1
+00010
+  rotate: false
+  xy: 327, 766
+  size: 320, 248
+  orig: 512, 512
+  offset: 134, 172
+  index: -1
+00011
+  rotate: false
+  xy: 2, 765
+  size: 323, 249
+  orig: 512, 512
+  offset: 134, 171
+  index: -1
+00012
+  rotate: false
+  xy: 2, 128
+  size: 216, 189
+  orig: 512, 512
+  offset: 134, 171
+  index: -1
+00015
+  rotate: false
+  xy: 843, 558
+  size: 177, 201
+  orig: 512, 512
+  offset: 144, 141
+  index: -1
+00016
+  rotate: true
+  xy: 434, 199
+  size: 115, 194
+  orig: 512, 512
+  offset: 149, 148
+  index: -1
+idle0001
+  rotate: true
+  xy: 619, 3
+  size: 114, 196
+  orig: 512, 512
+  offset: 150, 147
+  index: -1
+idle0002
+  rotate: true
+  xy: 419, 19
+  size: 113, 198
+  orig: 512, 512
+  offset: 151, 146
+  index: -1
+idle0003
+  rotate: true
+  xy: 2, 12
+  size: 114, 200
+  orig: 512, 512
+  offset: 150, 147
+  index: -1
+idle0004
+  rotate: false
+  xy: 724, 119
+  size: 116, 199
+  orig: 512, 512
+  offset: 148, 149
+  index: -1
+idle0005
+  rotate: false
+  xy: 724, 320
+  size: 117, 200
+  orig: 512, 512
+  offset: 147, 148
+  index: -1
+idle0006
+  rotate: false
+  xy: 843, 169
+  size: 117, 199
+  orig: 512, 512
+  offset: 147, 148
+  index: -1
+idle0007
+  rotate: true
+  xy: 220, 14
+  size: 118, 197
+  orig: 512, 512
+  offset: 147, 148
+  index: -1
+
+geshou2.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00013
+  rotate: false
+  xy: 2, 3
+  size: 211, 187
+  orig: 512, 512
+  offset: 137, 169
+  index: -1
+00014
+  rotate: false
+  xy: 215, 2
+  size: 206, 188
+  orig: 512, 512
+  offset: 141, 163
+  index: -1
+idle0000
+  rotate: true
+  xy: 619, 75
+  size: 115, 194
+  orig: 512, 512
+  offset: 149, 148
+  index: -1
+idle0008
+  rotate: true
+  xy: 423, 75
+  size: 115, 194
+  orig: 512, 512
+  offset: 149, 148
+  index: -1

@@ -1,0 +1,104 @@
+
+kingtask.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kingtask_1
+  rotate: false
+  xy: 2, 2
+  size: 216, 52
+  orig: 300, 200
+  offset: 52, 71
+  index: -1
+kingtask_10
+  rotate: false
+  xy: 438, 66
+  size: 216, 52
+  orig: 300, 200
+  offset: 52, 71
+  index: -1
+kingtask_11
+  rotate: false
+  xy: 2, 113
+  size: 216, 57
+  orig: 300, 200
+  offset: 52, 71
+  index: -1
+kingtask_12
+  rotate: false
+  xy: 656, 123
+  size: 216, 52
+  orig: 300, 200
+  offset: 52, 71
+  index: -1
+kingtask_13
+  rotate: false
+  xy: 220, 172
+  size: 216, 57
+  orig: 300, 200
+  offset: 52, 71
+  index: -1
+kingtask_14
+  rotate: false
+  xy: 438, 12
+  size: 216, 52
+  orig: 300, 200
+  offset: 52, 71
+  index: -1
+kingtask_2
+  rotate: false
+  xy: 220, 61
+  size: 216, 52
+  orig: 300, 200
+  offset: 52, 71
+  index: -1
+kingtask_3
+  rotate: false
+  xy: 2, 56
+  size: 216, 55
+  orig: 300, 200
+  offset: 52, 71
+  index: -1
+kingtask_4
+  rotate: false
+  xy: 438, 120
+  size: 216, 52
+  orig: 300, 200
+  offset: 52, 71
+  index: -1
+kingtask_5
+  rotate: false
+  xy: 220, 115
+  size: 216, 55
+  orig: 300, 200
+  offset: 52, 71
+  index: -1
+kingtask_6
+  rotate: false
+  xy: 656, 177
+  size: 216, 52
+  orig: 300, 200
+  offset: 52, 71
+  index: -1
+kingtask_7
+  rotate: false
+  xy: 438, 174
+  size: 216, 55
+  orig: 300, 200
+  offset: 52, 71
+  index: -1
+kingtask_8
+  rotate: false
+  xy: 220, 7
+  size: 216, 52
+  orig: 300, 200
+  offset: 52, 71
+  index: -1
+kingtask_9
+  rotate: false
+  xy: 2, 172
+  size: 216, 57
+  orig: 300, 200
+  offset: 52, 71
+  index: -1

@@ -1,0 +1,90 @@
+
+yunbiao05.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+03yunbiaodonghua_100
+  rotate: true
+  xy: 172, 303
+  size: 297, 166
+  orig: 512, 512
+  offset: 136, 207
+  index: -1
+03yunbiaodonghua_101
+  rotate: true
+  xy: 509, 306
+  size: 296, 167
+  orig: 512, 512
+  offset: 136, 207
+  index: -1
+03yunbiaodonghua_102
+  rotate: false
+  xy: 302, 604
+  size: 297, 168
+  orig: 512, 512
+  offset: 136, 207
+  index: -1
+03yunbiaodonghua_103
+  rotate: true
+  xy: 2, 2
+  size: 297, 167
+  orig: 512, 512
+  offset: 137, 207
+  index: -1
+03yunbiaodonghua_200
+  rotate: true
+  xy: 678, 310
+  size: 295, 166
+  orig: 512, 512
+  offset: 137, 207
+  index: -1
+03yunbiaodonghua_201
+  rotate: true
+  xy: 340, 305
+  size: 297, 167
+  orig: 512, 512
+  offset: 135, 207
+  index: -1
+03yunbiaodonghua_202
+  rotate: false
+  xy: 602, 776
+  size: 297, 168
+  orig: 512, 512
+  offset: 134, 207
+  index: -1
+03yunbiaodonghua_203
+  rotate: false
+  xy: 303, 774
+  size: 297, 170
+  orig: 512, 512
+  offset: 135, 207
+  index: -1
+03yunbiaodonghua_204
+  rotate: false
+  xy: 2, 774
+  size: 299, 170
+  orig: 512, 512
+  offset: 134, 207
+  index: -1
+03yunbiaodonghua_205
+  rotate: false
+  xy: 2, 602
+  size: 298, 170
+  orig: 512, 512
+  offset: 134, 207
+  index: -1
+03yunbiaodonghua_206
+  rotate: true
+  xy: 2, 301
+  size: 299, 168
+  orig: 512, 512
+  offset: 132, 207
+  index: -1
+03yunbiaodonghua_207
+  rotate: false
+  xy: 602, 607
+  size: 296, 167
+  orig: 512, 512
+  offset: 136, 207
+  index: -1

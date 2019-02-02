@@ -1,0 +1,328 @@
+
+Huwei_fashi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BZ
+  rotate: true
+  xy: 2, 99
+  size: 230, 406
+  orig: 230, 406
+  offset: 0, 0
+  index: -1
+Db_l
+  rotate: false
+  xy: 832, 168
+  size: 55, 81
+  orig: 55, 81
+  offset: 0, 0
+  index: -1
+FAZ
+  rotate: true
+  xy: 2, 331
+  size: 179, 554
+  orig: 179, 554
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 728, 251
+  size: 149, 152
+  orig: 149, 152
+  offset: 0, 0
+  index: -1
+Jm_l
+  rotate: true
+  xy: 879, 256
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+Jm_r
+  rotate: true
+  xy: 939, 194
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+arm_r
+  rotate: false
+  xy: 830, 412
+  size: 160, 98
+  orig: 160, 98
+  offset: 0, 0
+  index: -1
+bag
+  rotate: false
+  xy: 596, 39
+  size: 71, 60
+  orig: 71, 60
+  offset: 0, 0
+  index: -1
+baodai_b
+  rotate: true
+  xy: 561, 53
+  size: 90, 33
+  orig: 90, 33
+  offset: 0, 0
+  index: -1
+baodai_f
+  rotate: false
+  xy: 145, 30
+  size: 155, 67
+  orig: 155, 67
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 5
+  size: 92, 141
+  orig: 92, 141
+  offset: 0, 0
+  index: -1
+close
+  rotate: true
+  xy: 728, 155
+  size: 94, 102
+  orig: 94, 102
+  offset: 0, 0
+  index: -1
+eye_b
+  rotate: false
+  xy: 145, 9
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+eye_l
+  rotate: false
+  xy: 195, 2
+  size: 18, 12
+  orig: 18, 12
+  offset: 0, 0
+  index: -1
+eye_r
+  rotate: false
+  xy: 215, 2
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+fa01
+  rotate: false
+  xy: 847, 128
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+fa02
+  rotate: false
+  xy: 711, 2
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+fa03
+  rotate: true
+  xy: 384, 2
+  size: 27, 61
+  orig: 27, 61
+  offset: 0, 0
+  index: -1
+fa04
+  rotate: true
+  xy: 847, 91
+  size: 35, 45
+  orig: 35, 45
+  offset: 0, 0
+  index: -1
+fa10
+  rotate: true
+  xy: 195, 16
+  size: 12, 36
+  orig: 12, 36
+  offset: 0, 0
+  index: -1
+fa11
+  rotate: true
+  xy: 669, 2
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+fa12
+  rotate: false
+  xy: 714, 91
+  size: 69, 62
+  orig: 69, 62
+  offset: 0, 0
+  index: -1
+fa13
+  rotate: true
+  xy: 973, 370
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 785, 84
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+face_yz
+  rotate: false
+  xy: 889, 213
+  size: 60, 68
+  orig: 60, 68
+  offset: 0, 0
+  index: -1
+fadai
+  rotate: false
+  xy: 302, 26
+  size: 80, 71
+  orig: 80, 71
+  offset: 0, 0
+  index: -1
+gg_l
+  rotate: false
+  xy: 973, 283
+  size: 5, 2
+  orig: 5, 2
+  offset: 0, 0
+  index: -1
+gg_r
+  rotate: false
+  xy: 447, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 951, 243
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: false
+  xy: 561, 26
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+kua
+  rotate: false
+  xy: 596, 101
+  size: 73, 68
+  orig: 73, 68
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: true
+  xy: 558, 405
+  size: 105, 270
+  orig: 105, 270
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: true
+  xy: 410, 145
+  size: 184, 183
+  orig: 184, 183
+  offset: 0, 0
+  index: -1
+linzi
+  rotate: false
+  xy: 895, 134
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+mm
+  rotate: false
+  xy: 973, 287
+  size: 49, 12
+  orig: 49, 12
+  offset: 0, 0
+  index: -1
+qundai_l
+  rotate: false
+  xy: 889, 168
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+qundai_r
+  rotate: false
+  xy: 669, 41
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+qunzi
+  rotate: true
+  xy: 595, 171
+  size: 158, 131
+  orig: 158, 131
+  offset: 0, 0
+  index: -1
+qunzi_d
+  rotate: true
+  xy: 879, 283
+  size: 127, 92
+  orig: 127, 92
+  offset: 0, 0
+  index: -1
+s01
+  rotate: false
+  xy: 447, 8
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+s02
+  rotate: false
+  xy: 384, 64
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+s03
+  rotate: false
+  xy: 992, 473
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+sidai_l
+  rotate: true
+  xy: 558, 331
+  size: 72, 161
+  orig: 72, 161
+  offset: 0, 0
+  index: -1
+sidai_r
+  rotate: true
+  xy: 410, 31
+  size: 112, 149
+  orig: 112, 149
+  offset: 0, 0
+  index: -1
+touguang
+  rotate: true
+  xy: 671, 88
+  size: 81, 41
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+xb_l
+  rotate: false
+  xy: 973, 301
+  size: 42, 67
+  orig: 42, 67
+  offset: 0, 0
+  index: -1

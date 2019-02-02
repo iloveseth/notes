@@ -1,0 +1,391 @@
+
+xiaowunv.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chongwu_001_erduo_l
+  rotate: false
+  xy: 802, 281
+  size: 57, 27
+  orig: 57, 27
+  offset: 0, 0
+  index: -1
+chongwu_001_erduo_r
+  rotate: false
+  xy: 612, 110
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+chongwu_001_hudiejie
+  rotate: true
+  xy: 191, 2
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+chongwu_001_lian
+  rotate: true
+  xy: 497, 361
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+chongwu_001_shengti
+  rotate: false
+  xy: 1001, 320
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+chongwu_001_shou_r
+  rotate: false
+  xy: 612, 94
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+chongwu_001_tui_l
+  rotate: true
+  xy: 625, 237
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+chongwu_001_tui_l2
+  rotate: true
+  xy: 191, 26
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+chongwu_001_tui_r
+  rotate: true
+  xy: 975, 315
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+chongwu_001_yanjing
+  rotate: true
+  xy: 738, 261
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+chongwu_001_zui
+  rotate: true
+  xy: 383, 111
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+chongwu_002_shou_l
+  rotate: true
+  xy: 213, 129
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+chongwu_002_yanjing
+  rotate: true
+  xy: 541, 378
+  size: 29, 6
+  orig: 29, 6
+  offset: 0, 0
+  index: -1
+girl_001_chibang
+  rotate: false
+  xy: 402, 219
+  size: 111, 123
+  orig: 111, 123
+  offset: 0, 0
+  index: -1
+girl_001_gebo_l
+  rotate: false
+  xy: 975, 340
+  size: 29, 97
+  orig: 29, 97
+  offset: 0, 0
+  index: -1
+girl_001_gebo_r
+  rotate: false
+  xy: 515, 230
+  size: 108, 62
+  orig: 108, 62
+  offset: 0, 0
+  index: -1
+girl_001_lian
+  rotate: true
+  xy: 2, 2
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+girl_001_maozi
+  rotate: true
+  xy: 1006, 409
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+girl_001_qunzi
+  rotate: true
+  xy: 532, 93
+  size: 58, 78
+  orig: 58, 78
+  offset: 0, 0
+  index: -1
+girl_001_shengti
+  rotate: true
+  xy: 391, 107
+  size: 110, 139
+  orig: 110, 139
+  offset: 0, 0
+  index: -1
+girl_001_toufa
+  rotate: true
+  xy: 299, 344
+  size: 63, 196
+  orig: 63, 196
+  offset: 0, 0
+  index: -1
+girl_001_tui_1
+  rotate: true
+  xy: 293, 9
+  size: 111, 88
+  orig: 111, 88
+  offset: 0, 0
+  index: -1
+girl_001_tui_r
+  rotate: false
+  xy: 67, 11
+  size: 122, 48
+  orig: 122, 48
+  offset: 0, 0
+  index: -1
+girl_001_yanjing
+  rotate: false
+  xy: 696, 261
+  size: 40, 27
+  orig: 40, 27
+  offset: 0, 0
+  index: -1
+girl_002_chibang
+  rotate: true
+  xy: 213, 2
+  size: 118, 78
+  orig: 118, 78
+  offset: 0, 0
+  index: -1
+girl_002_gebo_l
+  rotate: true
+  xy: 630, 295
+  size: 62, 77
+  orig: 62, 77
+  offset: 0, 0
+  index: -1
+girl_002_gebo_r
+  rotate: false
+  xy: 668, 359
+  size: 80, 51
+  orig: 80, 51
+  offset: 0, 0
+  index: -1
+girl_002_maozi
+  rotate: true
+  xy: 737, 241
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+girl_002_shengti
+  rotate: false
+  xy: 654, 238
+  size: 40, 55
+  orig: 40, 55
+  offset: 0, 0
+  index: -1
+girl_002_toufa
+  rotate: false
+  xy: 802, 310
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+girl_002_tui_l
+  rotate: false
+  xy: 709, 290
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+girl_002_tui_r
+  rotate: true
+  xy: 760, 448
+  size: 62, 217
+  orig: 62, 217
+  offset: 0, 0
+  index: -1
+girl_002_yanjing
+  rotate: false
+  xy: 578, 7
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+girl_003_maozi
+  rotate: false
+  xy: 234, 225
+  size: 166, 117
+  orig: 166, 117
+  offset: 0, 0
+  index: -1
+girl_003_shengti
+  rotate: true
+  xy: 861, 303
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+girl_003_toufa
+  rotate: false
+  xy: 861, 276
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+girl_003_tui_l
+  rotate: true
+  xy: 2, 61
+  size: 113, 209
+  orig: 113, 209
+  offset: 0, 0
+  index: -1
+girl_003_tui_r
+  rotate: false
+  xy: 755, 293
+  size: 45, 71
+  orig: 45, 71
+  offset: 0, 0
+  index: -1
+girl_004_maozi
+  rotate: false
+  xy: 299, 409
+  size: 248, 101
+  orig: 248, 101
+  offset: 0, 0
+  index: -1
+girl_004_toufa
+  rotate: true
+  xy: 508, 8
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+girl_004_tui_l
+  rotate: false
+  xy: 979, 439
+  size: 43, 71
+  orig: 43, 71
+  offset: 0, 0
+  index: -1
+girl_004_tui_r
+  rotate: true
+  xy: 696, 232
+  size: 27, 39
+  orig: 27, 39
+  offset: 0, 0
+  index: -1
+girl_005_toufa
+  rotate: false
+  xy: 612, 169
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+girl_005_tui_l
+  rotate: true
+  xy: 850, 333
+  size: 31, 43
+  orig: 31, 43
+  offset: 0, 0
+  index: -1
+girl_006_maozi
+  rotate: false
+  xy: 549, 412
+  size: 209, 98
+  orig: 209, 98
+  offset: 0, 0
+  index: -1
+girl_006_toufa
+  rotate: false
+  xy: 515, 294
+  size: 113, 65
+  orig: 113, 65
+  offset: 0, 0
+  index: -1
+girl_007_toufa
+  rotate: false
+  xy: 508, 42
+  size: 101, 49
+  orig: 101, 49
+  offset: 0, 0
+  index: -1
+girl_008_toufa
+  rotate: true
+  xy: 234, 122
+  size: 101, 155
+  orig: 101, 155
+  offset: 0, 0
+  index: -1
+girl_009_toufa
+  rotate: true
+  xy: 760, 366
+  size: 80, 133
+  orig: 80, 133
+  offset: 0, 0
+  index: -1
+girl_weapon_001_bishou
+  rotate: false
+  xy: 549, 361
+  size: 117, 49
+  orig: 117, 49
+  offset: 0, 0
+  index: -1
+girl_weapon_002_pao
+  rotate: false
+  xy: 532, 153
+  size: 78, 75
+  orig: 78, 75
+  offset: 0, 0
+  index: -1
+girl_weapon_003_pao
+  rotate: false
+  xy: 383, 10
+  size: 123, 95
+  orig: 123, 95
+  offset: 0, 0
+  index: -1
+girl_weapon_004_pao
+  rotate: false
+  xy: 2, 176
+  size: 230, 173
+  orig: 230, 173
+  offset: 0, 0
+  index: -1
+girl_weapon_005_pao
+  rotate: false
+  xy: 2, 351
+  size: 295, 159
+  orig: 295, 159
+  offset: 0, 0
+  index: -1
+girl_weapon_006_pao
+  rotate: false
+  xy: 895, 316
+  size: 78, 130
+  orig: 78, 130
+  offset: 0, 0
+  index: -1

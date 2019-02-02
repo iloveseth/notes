@@ -1,0 +1,174 @@
+
+jixieshaonv.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: true
+  xy: 564, 555
+  size: 173, 141
+  orig: 512, 512
+  offset: 123, 201
+  index: -1
+00001
+  rotate: false
+  xy: 346, 555
+  size: 216, 173
+  orig: 512, 512
+  offset: 128, 165
+  index: -1
+00002
+  rotate: true
+  xy: 535, 363
+  size: 190, 189
+  orig: 512, 512
+  offset: 82, 171
+  index: -1
+00003
+  rotate: false
+  xy: 329, 352
+  size: 204, 201
+  orig: 512, 512
+  offset: 54, 194
+  index: -1
+00004
+  rotate: false
+  xy: 662, 745
+  size: 211, 207
+  orig: 512, 512
+  offset: 83, 188
+  index: -1
+00005
+  rotate: true
+  xy: 251, 2
+  size: 120, 126
+  orig: 512, 512
+  offset: 138, 216
+  index: -1
+00006
+  rotate: false
+  xy: 346, 730
+  size: 314, 222
+  orig: 512, 512
+  offset: 69, 166
+  index: -1
+00007
+  rotate: false
+  xy: 2, 315
+  size: 325, 313
+  orig: 512, 512
+  offset: 101, 144
+  index: -1
+00008
+  rotate: false
+  xy: 2, 630
+  size: 342, 322
+  orig: 512, 512
+  offset: 67, 152
+  index: -1
+00009
+  rotate: false
+  xy: 2, 47
+  size: 247, 266
+  orig: 512, 512
+  offset: 110, 166
+  index: -1
+00010
+  rotate: true
+  xy: 707, 555
+  size: 188, 129
+  orig: 512, 512
+  offset: 132, 236
+  index: -1
+00011
+  rotate: true
+  xy: 251, 124
+  size: 189, 122
+  orig: 512, 512
+  offset: 127, 232
+  index: -1
+00012
+  rotate: true
+  xy: 726, 361
+  size: 192, 124
+  orig: 512, 512
+  offset: 123, 224
+  index: -1
+00013
+  rotate: true
+  xy: 875, 751
+  size: 201, 131
+  orig: 512, 512
+  offset: 121, 215
+  index: -1
+00014
+  rotate: true
+  xy: 375, 177
+  size: 173, 141
+  orig: 512, 512
+  offset: 123, 201
+  index: -1
+idle0000
+  rotate: true
+  xy: 379, 2
+  size: 173, 141
+  orig: 512, 512
+  offset: 123, 201
+  index: -1
+idle0001
+  rotate: true
+  xy: 518, 177
+  size: 173, 141
+  orig: 512, 512
+  offset: 123, 201
+  index: -1
+idle0002
+  rotate: true
+  xy: 522, 3
+  size: 172, 141
+  orig: 512, 512
+  offset: 123, 202
+  index: -1
+idle0003
+  rotate: true
+  xy: 665, 43
+  size: 171, 142
+  orig: 512, 512
+  offset: 123, 201
+  index: -1
+idle0004
+  rotate: false
+  xy: 852, 279
+  size: 170, 143
+  orig: 512, 512
+  offset: 123, 200
+  index: -1
+idle0005
+  rotate: false
+  xy: 834, 133
+  size: 169, 144
+  orig: 512, 512
+  offset: 123, 199
+  index: -1
+idle0006
+  rotate: false
+  xy: 852, 424
+  size: 170, 144
+  orig: 512, 512
+  offset: 123, 199
+  index: -1
+idle0007
+  rotate: false
+  xy: 661, 216
+  size: 171, 143
+  orig: 512, 512
+  offset: 123, 200
+  index: -1
+idle0008
+  rotate: true
+  xy: 838, 570
+  size: 173, 141
+  orig: 512, 512
+  offset: 123, 201
+  index: -1

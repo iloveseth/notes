@@ -1,0 +1,153 @@
+
+Xieezhangyu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye1
+  rotate: false
+  xy: 106, 244
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+eye2
+  rotate: false
+  xy: 640, 750
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1
+eye3
+  rotate: false
+  xy: 952, 920
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+eye4
+  rotate: false
+  xy: 533, 620
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+eye5
+  rotate: false
+  xy: 2, 2
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 459
+  size: 319, 277
+  orig: 319, 277
+  offset: 0, 0
+  index: -1
+st_m
+  rotate: false
+  xy: 266, 290
+  size: 112, 167
+  orig: 112, 167
+  offset: 0, 0
+  index: -1
+t_l_1
+  rotate: false
+  xy: 380, 337
+  size: 140, 121
+  orig: 140, 121
+  offset: 0, 0
+  index: -1
+t_l_2
+  rotate: false
+  xy: 148, 274
+  size: 116, 183
+  orig: 116, 183
+  offset: 0, 0
+  index: -1
+t_l_3
+  rotate: false
+  xy: 2, 42
+  size: 102, 223
+  orig: 102, 223
+  offset: 0, 0
+  index: -1
+t_l_4
+  rotate: false
+  xy: 640, 775
+  size: 106, 239
+  orig: 106, 239
+  offset: 0, 0
+  index: -1
+t_l_5
+  rotate: true
+  xy: 748, 849
+  size: 90, 202
+  orig: 90, 202
+  offset: 0, 0
+  index: -1
+t_r_1
+  rotate: false
+  xy: 2, 267
+  size: 144, 190
+  orig: 144, 190
+  offset: 0, 0
+  index: -1
+t_r_2
+  rotate: true
+  xy: 323, 460
+  size: 79, 213
+  orig: 79, 213
+  offset: 0, 0
+  index: -1
+t_r_3
+  rotate: true
+  xy: 323, 541
+  size: 98, 208
+  orig: 98, 208
+  offset: 0, 0
+  index: -1
+t_r_4
+  rotate: true
+  xy: 748, 778
+  size: 69, 178
+  orig: 69, 178
+  offset: 0, 0
+  index: -1
+yc_m
+  rotate: false
+  xy: 323, 641
+  size: 234, 95
+  orig: 234, 95
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 738
+  size: 636, 276
+  orig: 636, 276
+  offset: 0, 0
+  index: -1
+yp
+  rotate: true
+  xy: 559, 654
+  size: 82, 47
+  orig: 82, 47
+  offset: 0, 0
+  index: -1
+yq_m_l
+  rotate: true
+  xy: 1005, 987
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+zc_s
+  rotate: false
+  xy: 748, 941
+  size: 255, 73
+  orig: 255, 73
+  offset: 0, 0
+  index: -1

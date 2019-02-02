@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "674426a8-f9b4-48f3-8a02-4fa5358e631c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "zhucheng_btn_libao1": {
+      "ver": "1.0.3",
+      "uuid": "b6de52e8-134a-48b1-8ccf-623ca8131513",
+      "rawTextureUuid": "674426a8-f9b4-48f3-8a02-4fa5358e631c",
+      "trimType": "custom",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 4.5,
+      "trimX": 8,
+      "trimY": 3,
+      "width": 60,
+      "height": 60,
+      "rawWidth": 75,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

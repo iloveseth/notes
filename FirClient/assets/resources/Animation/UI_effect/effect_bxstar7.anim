@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_bxstar7",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.08333333333333333,
+  "sample": 60,
+  "speed": 0.2,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "Sprite_": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "c5561d40-e164-431b-a2eb-f0cbd3ff8edc"
+            }
+          },
+          {
+            "frame": 0.016666666666666666,
+            "value": {
+              "__uuid__": "208b91f7-a311-4f0c-9fe9-e2380c843420"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "f10135fd-882e-4940-be39-66004877286b"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "34fbd460-bacc-4d56-9384-28512af2339e"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "62ecb84e-ff39-42a9-9f9b-0a89272d2706"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "898d77ac-12f6-49f9-9c5a-6f7ce62bceff"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

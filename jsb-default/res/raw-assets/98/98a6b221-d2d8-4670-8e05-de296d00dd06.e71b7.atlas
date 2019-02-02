@@ -1,0 +1,160 @@
+
+Husongshuijing.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 955, 162
+  size: 16, 44
+  orig: 16, 44
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 443, 52
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+biyan
+  rotate: false
+  xy: 154, 34
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+gaoguang
+  rotate: false
+  xy: 204, 42
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+humuj
+  rotate: false
+  xy: 2, 29
+  size: 86, 40
+  orig: 86, 40
+  offset: 0, 0
+  index: -1
+kuzi
+  rotate: false
+  xy: 534, 135
+  size: 150, 119
+  orig: 150, 119
+  offset: 0, 0
+  index: -1
+lian
+  rotate: false
+  xy: 359, 50
+  size: 82, 86
+  orig: 82, 86
+  offset: 0, 0
+  index: -1
+meimao
+  rotate: false
+  xy: 821, 127
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+piaodai
+  rotate: false
+  xy: 821, 155
+  size: 132, 99
+  orig: 132, 99
+  offset: 0, 0
+  index: -1
+shengti
+  rotate: false
+  xy: 955, 180
+  size: 64, 74
+  orig: 64, 74
+  offset: 0, 0
+  index: -1
+shenti
+  rotate: false
+  xy: 599, 75
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+shou
+  rotate: false
+  xy: 389, 32
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+shoubi
+  rotate: false
+  xy: 686, 121
+  size: 133, 133
+  orig: 133, 133
+  offset: 0, 0
+  index: -1
+shoudun
+  rotate: false
+  xy: 522, 61
+  size: 75, 72
+  orig: 75, 72
+  offset: 0, 0
+  index: -1
+shuijche
+  rotate: false
+  xy: 2, 71
+  size: 242, 183
+  orig: 242, 183
+  offset: 0, 0
+  index: -1
+shuijing
+  rotate: true
+  xy: 2, 12
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1
+toufa hou
+  rotate: false
+  xy: 246, 28
+  size: 111, 108
+  orig: 111, 108
+  offset: 0, 0
+  index: -1
+toufa qian
+  rotate: false
+  xy: 443, 65
+  size: 77, 71
+  orig: 77, 71
+  offset: 0, 0
+  index: -1
+weiba
+  rotate: true
+  xy: 655, 96
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+yanjing
+  rotate: true
+  xy: 359, 2
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 246, 138
+  size: 286, 116
+  orig: 286, 116
+  offset: 0, 0
+  index: -1
+yingzi2
+  rotate: false
+  xy: 90, 27
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1

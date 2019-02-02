@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "d1510ffa-4fc6-465b-a1b2-10df60faa0ee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "zhandou_img_tiaozhan01": {
+      "ver": "1.0.3",
+      "uuid": "0595c39e-ef55-4951-ae8d-0c045c220449",
+      "rawTextureUuid": "d1510ffa-4fc6-465b-a1b2-10df60faa0ee",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 226,
+      "height": 226,
+      "rawWidth": 226,
+      "rawHeight": 226,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

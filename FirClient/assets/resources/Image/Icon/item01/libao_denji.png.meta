@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "e78c274f-fe19-4cc1-af97-4bdcc5e6cee3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "libao_denji": {
+      "ver": "1.0.3",
+      "uuid": "be75cc9e-0ac0-4f32-bb0c-32e5918bd876",
+      "rawTextureUuid": "e78c274f-fe19-4cc1-af97-4bdcc5e6cee3",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 84,
+      "height": 84,
+      "rawWidth": 84,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

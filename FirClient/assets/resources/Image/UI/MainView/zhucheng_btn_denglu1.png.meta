@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "0cc9165b-39a9-4a8c-9ee1-6afa2c9dbb6c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "zhucheng_btn_denglu1": {
+      "ver": "1.0.3",
+      "uuid": "f8111570-306a-4808-aa91-bb37913ab558",
+      "rawTextureUuid": "0cc9165b-39a9-4a8c-9ee1-6afa2c9dbb6c",
+      "trimType": "custom",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 4.5,
+      "trimX": 8,
+      "trimY": 3,
+      "width": 60,
+      "height": 60,
+      "rawWidth": 75,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

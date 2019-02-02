@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "a98c8a1b-577e-4cc0-b489-3382f518775b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "huodong_img_zi16": {
+      "ver": "1.0.3",
+      "uuid": "8413ef9b-936b-411c-ba2c-68205014e6a8",
+      "rawTextureUuid": "a98c8a1b-577e-4cc0-b489-3382f518775b",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 445,
+      "height": 39,
+      "rawWidth": 445,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

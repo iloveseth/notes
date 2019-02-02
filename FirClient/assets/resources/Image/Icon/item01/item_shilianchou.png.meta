@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "413724d0-fa8f-42f1-891a-92aecce44a4a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "item_shilianchou": {
+      "ver": "1.0.3",
+      "uuid": "af9272c0-b7f3-44c4-9c17-5c386cbc7402",
+      "rawTextureUuid": "413724d0-fa8f-42f1-891a-92aecce44a4a",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 84,
+      "height": 84,
+      "rawWidth": 84,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"__type__":"cc.AnimationClip","_name":"UI_fightfaile","_duration":0.26666666666666666,"wrapMode":"0","curveData":{"props":{"scale":[{"frame":0,"value":{"__type__":"cc.Vec2","x":1.5,"y":1.5}},{"frame":0.2,"value":{"__type__":"cc.Vec2","x":0.9,"y":0.9}},{"frame":0.26666666666666666,"value":{"__type__":"cc.Vec2","x":1,"y":1}}]}}}

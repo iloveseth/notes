@@ -1,0 +1,15 @@
+{
+    "name": "文件解析",
+    "version": "0.0.1",
+    "description": "The package template for getting started.",
+    "author": "Cocos Creator",
+    "main": "main.js",
+    "main-menu": {
+        "文件解析/解析excel": {
+            "message": "文件解析:parseExcel"
+        },
+        "文件解析/生成ProtoMsg": {
+           "message": "文件解析:genProto"
+        }
+    }
+}

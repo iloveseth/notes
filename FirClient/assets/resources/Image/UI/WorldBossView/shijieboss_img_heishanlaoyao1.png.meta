@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "cfeff708-1f6a-49dd-9f3f-69d46c868ad9",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "shijieboss_img_heishanlaoyao1": {
+      "ver": "1.0.3",
+      "uuid": "c6ec6753-3994-4a1c-90a8-79c89e439255",
+      "rawTextureUuid": "cfeff708-1f6a-49dd-9f3f-69d46c868ad9",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 636,
+      "height": 142,
+      "rawWidth": 636,
+      "rawHeight": 142,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

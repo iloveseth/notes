@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "55f6b265-86e2-4ecb-9333-440bb7f841ff",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "image_icecity": {
+      "ver": "1.0.3",
+      "uuid": "55dacd87-50ce-4568-9e4d-126ba41f587c",
+      "rawTextureUuid": "55f6b265-86e2-4ecb-9333-440bb7f841ff",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2048,
+      "height": 2048,
+      "rawWidth": 2048,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

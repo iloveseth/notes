@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "f6ae52aa-2430-4e44-aeae-ad30b2db9949",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "zhandou_btn_guanqiadian": {
+      "ver": "1.0.3",
+      "uuid": "8a3aa335-66a2-4c8a-adef-878df21d51f8",
+      "rawTextureUuid": "f6ae52aa-2430-4e44-aeae-ad30b2db9949",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 48,
+      "height": 39,
+      "rawWidth": 48,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

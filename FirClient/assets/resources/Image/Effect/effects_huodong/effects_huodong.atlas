@@ -1,0 +1,62 @@
+
+effects_huodong.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_huodong_0001
+  rotate: true
+  xy: 405, 30
+  size: 73, 110
+  orig: 200, 200
+  offset: 86, 47
+  index: -1
+effects_huodong_0002
+  rotate: false
+  xy: 96, 11
+  size: 101, 92
+  orig: 200, 200
+  offset: 57, 47
+  index: -1
+effects_huodong_0003
+  rotate: false
+  xy: 517, 30
+  size: 110, 73
+  orig: 200, 200
+  offset: 45, 47
+  index: -1
+effects_huodong_0004
+  rotate: true
+  xy: 199, 11
+  size: 92, 101
+  orig: 200, 200
+  offset: 45, 48
+  index: -1
+effects_huodong_0005
+  rotate: true
+  xy: 629, 30
+  size: 73, 110
+  orig: 200, 200
+  offset: 45, 51
+  index: -1
+effects_huodong_0006
+  rotate: false
+  xy: 302, 11
+  size: 101, 92
+  orig: 200, 200
+  offset: 46, 69
+  index: -1
+effects_huodong_0007
+  rotate: false
+  xy: 741, 30
+  size: 110, 73
+  orig: 200, 200
+  offset: 49, 88
+  index: -1
+effects_huodong_0008
+  rotate: false
+  xy: 2, 2
+  size: 92, 101
+  orig: 200, 200
+  offset: 67, 59
+  index: -1

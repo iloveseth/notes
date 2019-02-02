@@ -1,0 +1,39 @@
+{
+  "cocos-analytics": {
+    "appID": "13798",
+    "appSecret": "959b3ac0037d0f3c2fdce94f8421a9b2",
+    "channel": "",
+    "enable": false,
+    "version": ""
+  },
+  "collision-matrix": [
+    [
+      true
+    ]
+  ],
+  "design-resolution-height": 640,
+  "design-resolution-width": 960,
+  "excluded-modules": [
+    "TiledMap",
+    "PageView",
+    "PageViewIndicator",
+    "VideoPlayer",
+    "WebView",
+    "MotionStreak",
+    "Physics",
+    "Intersection"
+  ],
+  "fit-height": true,
+  "fit-width": false,
+  "group-list": [
+    "default"
+  ],
+  "simulator-orientation": false,
+  "simulator-resolution": {
+    "height": 640,
+    "width": 960
+  },
+  "start-scene": "639f958c-8a3c-44aa-b596-1732aaeec635",
+  "use-customize-simulator": false,
+  "use-project-simulator-setting": false
+}

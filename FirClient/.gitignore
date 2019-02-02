@@ -1,0 +1,7 @@
+build/
+library/
+temp/
+local/*
+node_modules/
+.vscode/chrome/
+!local/node-library.json

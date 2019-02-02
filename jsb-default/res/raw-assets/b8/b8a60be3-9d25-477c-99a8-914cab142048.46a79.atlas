@@ -1,0 +1,188 @@
+
+Haiguai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 343, 449
+  size: 226, 284
+  orig: 226, 284
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 640, 771
+  size: 240, 349
+  orig: 240, 349
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 386, 182
+  size: 132, 265
+  orig: 132, 265
+  offset: 0, 0
+  index: -1
+bq_l
+  rotate: true
+  xy: 199, 163
+  size: 270, 185
+  orig: 270, 185
+  offset: 0, 0
+  index: -1
+db_l
+  rotate: true
+  xy: 730, 485
+  size: 120, 90
+  orig: 120, 90
+  offset: 0, 0
+  index: -1
+dt h_l
+  rotate: true
+  xy: 827, 328
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+ed_l1
+  rotate: false
+  xy: 2, 2
+  size: 182, 87
+  orig: 182, 87
+  offset: 0, 0
+  index: -1
+ed_l3
+  rotate: false
+  xy: 571, 446
+  size: 157, 111
+  orig: 157, 111
+  offset: 0, 0
+  index: -1
+ed_r1
+  rotate: false
+  xy: 910, 527
+  size: 83, 86
+  orig: 83, 86
+  offset: 0, 0
+  index: -1
+ed_r2
+  rotate: false
+  xy: 199, 17
+  size: 181, 144
+  orig: 181, 144
+  offset: 0, 0
+  index: -1
+ed_r3
+  rotate: false
+  xy: 910, 362
+  size: 73, 75
+  orig: 73, 75
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 658, 305
+  size: 139, 92
+  orig: 139, 92
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 2, 91
+  size: 342, 195
+  orig: 342, 195
+  offset: 0, 0
+  index: -1
+head_3
+  rotate: true
+  xy: 822, 490
+  size: 115, 86
+  orig: 115, 86
+  offset: 0, 0
+  index: -1
+w1
+  rotate: false
+  xy: 520, 167
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 661, 167
+  size: 129, 136
+  orig: 129, 136
+  offset: 0, 0
+  index: -1
+w3
+  rotate: false
+  xy: 571, 559
+  size: 122, 174
+  orig: 122, 174
+  offset: 0, 0
+  index: -1
+wb_l
+  rotate: false
+  xy: 2, 435
+  size: 339, 298
+  orig: 339, 298
+  offset: 0, 0
+  index: -1
+xb_1
+  rotate: true
+  xy: 827, 395
+  size: 93, 79
+  orig: 93, 79
+  offset: 0, 0
+  index: -1
+xb_2
+  rotate: false
+  xy: 520, 303
+  size: 136, 141
+  orig: 136, 141
+  offset: 0, 0
+  index: -1
+xb_3
+  rotate: false
+  xy: 910, 439
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+xb_l
+  rotate: false
+  xy: 850, 615
+  size: 133, 154
+  orig: 133, 154
+  offset: 0, 0
+  index: -1
+xg h_l
+  rotate: false
+  xy: 910, 305
+  size: 61, 55
+  orig: 61, 55
+  offset: 0, 0
+  index: -1
+xt_r3
+  rotate: false
+  xy: 695, 607
+  size: 153, 162
+  orig: 153, 162
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 735
+  size: 636, 276
+  orig: 636, 276
+  offset: 0, 0
+  index: -1
+zz h_l
+  rotate: true
+  xy: 752, 352
+  size: 131, 73
+  orig: 131, 73
+  offset: 0, 0
+  index: -1

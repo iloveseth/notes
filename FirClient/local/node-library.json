@@ -1,0 +1,23 @@
+{
+  "user": {
+    "name": "User",
+    "prefab": [
+      {
+        "name": "Button_",
+        "uuid": "1f3636b2-acb1-4398-8b2d-9299b2546fb7"
+      },
+      {
+        "name": "Label_",
+        "uuid": "48a9f66e-0bc6-48a7-ac2c-eaa3eb92046a"
+      },
+      {
+        "name": "Sprite_",
+        "uuid": "99dabfa7-b989-4071-b9d0-78b28e84429c"
+      },
+      {
+        "name": "RichText_",
+        "uuid": "c599b2f6-9c92-4efe-b2dd-a062ac9d26df"
+      }
+    ]
+  }
+}

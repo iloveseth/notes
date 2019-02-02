@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "9c2d07e7-5dcf-41b4-bac9-f4e0d3bdffec",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "shenglishibai_img_caidai": {
+      "ver": "1.0.3",
+      "uuid": "9490fd3d-622b-47c6-82ee-4979f03b9f01",
+      "rawTextureUuid": "9c2d07e7-5dcf-41b4-bac9-f4e0d3bdffec",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 497,
+      "height": 104,
+      "rawWidth": 497,
+      "rawHeight": 104,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

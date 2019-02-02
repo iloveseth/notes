@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "71b932c2-df2a-4951-88b0-433816baee79",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "btn_liaotian_tanchu1": {
+      "ver": "1.0.3",
+      "uuid": "602550eb-4070-4961-b7a9-42d96bf10e14",
+      "rawTextureUuid": "71b932c2-df2a-4951-88b0-433816baee79",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 32,
+      "height": 114,
+      "rawWidth": 32,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

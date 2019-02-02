@@ -1,0 +1,111 @@
+
+effects_hechengchenggong.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_hechengchenggong_0001
+  rotate: true
+  xy: 880, 749
+  size: 163, 141
+  orig: 370, 490
+  offset: 103, 285
+  index: -1
+effects_hechengchenggong_0002
+  rotate: false
+  xy: 2, 198
+  size: 185, 182
+  orig: 370, 490
+  offset: 92, 262
+  index: -1
+effects_hechengchenggong_0003
+  rotate: true
+  xy: 2, 2
+  size: 194, 156
+  orig: 370, 490
+  offset: 88, 275
+  index: -1
+effects_hechengchenggong_0004
+  rotate: true
+  xy: 228, 433
+  size: 178, 158
+  orig: 370, 490
+  offset: 96, 275
+  index: -1
+effects_hechengchenggong_0005
+  rotate: false
+  xy: 531, 737
+  size: 176, 175
+  orig: 370, 490
+  offset: 94, 268
+  index: -1
+effects_hechengchenggong_0006
+  rotate: false
+  xy: 343, 727
+  size: 186, 185
+  orig: 370, 490
+  offset: 89, 264
+  index: -1
+effects_hechengchenggong_0007
+  rotate: false
+  xy: 709, 744
+  size: 169, 168
+  orig: 370, 490
+  offset: 97, 274
+  index: -1
+effects_hechengchenggong_0008
+  rotate: false
+  xy: 2, 613
+  size: 339, 299
+  orig: 370, 490
+  offset: 6, 191
+  index: -1
+effects_hechengchenggong_0009
+  rotate: false
+  xy: 2, 382
+  size: 224, 229
+  orig: 370, 490
+  offset: 66, 243
+  index: -1
+effects_hechengchenggong_0010
+  rotate: false
+  xy: 160, 20
+  size: 137, 143
+  orig: 370, 490
+  offset: 112, 285
+  index: -1
+effects_hechengchenggong_0011
+  rotate: true
+  xy: 189, 165
+  size: 120, 152
+  orig: 370, 490
+  offset: 126, 282
+  index: -1
+effects_hechengchenggong_0012
+  rotate: false
+  xy: 299, 20
+  size: 130, 143
+  orig: 370, 490
+  offset: 121, 306
+  index: -1
+effects_hechengchenggong_0013
+  rotate: true
+  xy: 228, 287
+  size: 144, 166
+  orig: 370, 490
+  offset: 117, 297
+  index: -1
+effects_hechengchenggong_0014
+  rotate: false
+  xy: 388, 445
+  size: 129, 141
+  orig: 370, 490
+  offset: 145, 284
+  index: -1
+effects_hechengchenggong_0015
+  rotate: false
+  xy: 388, 588
+  size: 138, 137
+  orig: 370, 490
+  offset: 146, 277
+  index: -1

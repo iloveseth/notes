@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "792ac4b7-4999-46a4-9ac7-1cc32e6b42e7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "zhandou_img_wenzidi": {
+      "ver": "1.0.3",
+      "uuid": "46248611-aed2-4f91-b544-2b60299a91c0",
+      "rawTextureUuid": "792ac4b7-4999-46a4-9ac7-1cc32e6b42e7",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 56,
+      "height": 81,
+      "rawWidth": 56,
+      "rawHeight": 81,
+      "borderTop": 38,
+      "borderBottom": 38,
+      "borderLeft": 26,
+      "borderRight": 26,
+      "subMetas": {}
+    }
+  }
+}

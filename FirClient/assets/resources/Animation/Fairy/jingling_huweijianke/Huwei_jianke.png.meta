@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "12ebe74b-d547-4e4e-a2c8-72855c84e577",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Huwei_jianke": {
+      "ver": "1.0.3",
+      "uuid": "0ab4e39e-67ed-4385-97b5-b19be743592d",
+      "rawTextureUuid": "12ebe74b-d547-4e4e-a2c8-72855c84e577",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1012,
+      "height": 508,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

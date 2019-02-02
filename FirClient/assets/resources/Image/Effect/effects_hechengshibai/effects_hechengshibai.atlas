@@ -1,0 +1,76 @@
+
+effects_hechengshibai.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_hechengshibai_0001
+  rotate: false
+  xy: 339, 75
+  size: 81, 82
+  orig: 370, 490
+  offset: 147, 313
+  index: -1
+effects_hechengshibai_0002
+  rotate: false
+  xy: 353, 159
+  size: 97, 96
+  orig: 370, 490
+  offset: 139, 307
+  index: -1
+effects_hechengshibai_0003
+  rotate: false
+  xy: 373, 257
+  size: 118, 117
+  orig: 370, 490
+  offset: 127, 299
+  index: -1
+effects_hechengshibai_0004
+  rotate: false
+  xy: 373, 376
+  size: 136, 131
+  orig: 370, 490
+  offset: 116, 292
+  index: -1
+effects_hechengshibai_0005
+  rotate: true
+  xy: 187, 51
+  size: 148, 150
+  orig: 370, 490
+  offset: 111, 284
+  index: -1
+effects_hechengshibai_0006
+  rotate: false
+  xy: 199, 201
+  size: 152, 144
+  orig: 370, 490
+  offset: 112, 285
+  index: -1
+effects_hechengshibai_0007
+  rotate: false
+  xy: 2, 2
+  size: 162, 150
+  orig: 370, 490
+  offset: 107, 281
+  index: -1
+effects_hechengshibai_0008
+  rotate: false
+  xy: 199, 347
+  size: 172, 160
+  orig: 370, 490
+  offset: 102, 277
+  index: -1
+effects_hechengshibai_0009
+  rotate: false
+  xy: 2, 154
+  size: 183, 171
+  orig: 370, 490
+  offset: 96, 271
+  index: -1
+effects_hechengshibai_0010
+  rotate: false
+  xy: 2, 327
+  size: 195, 180
+  orig: 370, 490
+  offset: 90, 268
+  index: -1

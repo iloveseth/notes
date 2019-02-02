@@ -1,0 +1,90 @@
+
+effects_zidongdaguai.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_zidongdaguai_0001
+  rotate: false
+  xy: 596, 2
+  size: 91, 21
+  orig: 127, 21
+  offset: 3, 0
+  index: -1
+effects_zidongdaguai_0002
+  rotate: false
+  xy: 492, 2
+  size: 102, 21
+  orig: 127, 21
+  offset: 3, 0
+  index: -1
+effects_zidongdaguai_0003
+  rotate: false
+  xy: 617, 25
+  size: 102, 21
+  orig: 127, 21
+  offset: 3, 0
+  index: -1
+effects_zidongdaguai_0004
+  rotate: false
+  xy: 377, 2
+  size: 113, 21
+  orig: 127, 21
+  offset: 3, 0
+  index: -1
+effects_zidongdaguai_0005
+  rotate: false
+  xy: 502, 25
+  size: 113, 21
+  orig: 127, 21
+  offset: 3, 0
+  index: -1
+effects_zidongdaguai_0006
+  rotate: false
+  xy: 2, 2
+  size: 123, 21
+  orig: 127, 21
+  offset: 3, 0
+  index: -1
+effects_zidongdaguai_0007
+  rotate: false
+  xy: 127, 25
+  size: 123, 21
+  orig: 127, 21
+  offset: 3, 0
+  index: -1
+effects_zidongdaguai_0008
+  rotate: false
+  xy: 127, 2
+  size: 123, 21
+  orig: 127, 21
+  offset: 3, 0
+  index: -1
+effects_zidongdaguai_0009
+  rotate: false
+  xy: 252, 25
+  size: 123, 21
+  orig: 127, 21
+  offset: 3, 0
+  index: -1
+effects_zidongdaguai_0010
+  rotate: false
+  xy: 252, 2
+  size: 123, 21
+  orig: 127, 21
+  offset: 3, 0
+  index: -1
+effects_zidongdaguai_0011
+  rotate: false
+  xy: 377, 25
+  size: 123, 21
+  orig: 127, 21
+  offset: 3, 0
+  index: -1
+effects_zidongdaguai_0012
+  rotate: false
+  xy: 2, 25
+  size: 123, 21
+  orig: 127, 21
+  offset: 3, 0
+  index: -1

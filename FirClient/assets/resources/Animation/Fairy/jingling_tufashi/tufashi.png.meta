@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "21f4546b-8481-41cc-8d59-227b9563139b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "tufashi": {
+      "ver": "1.0.3",
+      "uuid": "1555b443-2053-4226-aa26-a11302ec19d6",
+      "rawTextureUuid": "21f4546b-8481-41cc-8d59-227b9563139b",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1024,
+      "height": 512,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

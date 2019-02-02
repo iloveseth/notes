@@ -1,0 +1,174 @@
+
+nvhushizhang.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: false
+  xy: 555, 606
+  size: 139, 165
+  orig: 512, 512
+  offset: 134, 167
+  index: -1
+00001
+  rotate: false
+  xy: 441, 211
+  size: 139, 143
+  orig: 512, 512
+  offset: 134, 186
+  index: -1
+00002
+  rotate: false
+  xy: 2, 275
+  size: 269, 249
+  orig: 512, 512
+  offset: 120, 98
+  index: -1
+00003
+  rotate: false
+  xy: 614, 773
+  size: 269, 249
+  orig: 512, 512
+  offset: 120, 98
+  index: -1
+00004
+  rotate: false
+  xy: 2, 774
+  size: 333, 248
+  orig: 512, 512
+  offset: 56, 98
+  index: -1
+00005
+  rotate: false
+  xy: 287, 524
+  size: 266, 248
+  orig: 512, 512
+  offset: 121, 98
+  index: -1
+00006
+  rotate: true
+  xy: 2, 2
+  size: 271, 245
+  orig: 512, 512
+  offset: 120, 100
+  index: -1
+00007
+  rotate: false
+  xy: 337, 774
+  size: 275, 248
+  orig: 512, 512
+  offset: 122, 98
+  index: -1
+00008
+  rotate: false
+  xy: 2, 526
+  size: 283, 246
+  orig: 512, 512
+  offset: 121, 100
+  index: -1
+00009
+  rotate: false
+  xy: 885, 874
+  size: 137, 148
+  orig: 512, 512
+  offset: 132, 188
+  index: -1
+00010
+  rotate: false
+  xy: 582, 119
+  size: 139, 152
+  orig: 512, 512
+  offset: 132, 184
+  index: -1
+00011
+  rotate: true
+  xy: 866, 297
+  size: 140, 156
+  orig: 512, 512
+  offset: 132, 180
+  index: -1
+00012
+  rotate: false
+  xy: 723, 276
+  size: 141, 161
+  orig: 512, 512
+  offset: 132, 175
+  index: -1
+00013
+  rotate: false
+  xy: 696, 607
+  size: 140, 164
+  orig: 512, 512
+  offset: 133, 171
+  index: -1
+00014
+  rotate: false
+  xy: 555, 439
+  size: 139, 165
+  orig: 512, 512
+  offset: 134, 167
+  index: -1
+idle0000
+  rotate: false
+  xy: 249, 49
+  size: 139, 165
+  orig: 512, 512
+  offset: 134, 167
+  index: -1
+idle0001
+  rotate: false
+  xy: 273, 356
+  size: 139, 166
+  orig: 512, 512
+  offset: 134, 166
+  index: -1
+idle0002
+  rotate: false
+  xy: 414, 356
+  size: 139, 166
+  orig: 512, 512
+  offset: 134, 165
+  index: -1
+idle0003
+  rotate: true
+  xy: 273, 216
+  size: 138, 166
+  orig: 512, 512
+  offset: 134, 164
+  index: -1
+idle0004
+  rotate: true
+  xy: 390, 71
+  size: 138, 166
+  orig: 512, 512
+  offset: 134, 163
+  index: -1
+idle0005
+  rotate: false
+  xy: 838, 606
+  size: 139, 165
+  orig: 512, 512
+  offset: 133, 163
+  index: -1
+idle0006
+  rotate: false
+  xy: 837, 439
+  size: 139, 165
+  orig: 512, 512
+  offset: 133, 164
+  index: -1
+idle0007
+  rotate: false
+  xy: 582, 273
+  size: 139, 164
+  orig: 512, 512
+  offset: 133, 166
+  index: -1
+idle0008
+  rotate: false
+  xy: 696, 440
+  size: 139, 165
+  orig: 512, 512
+  offset: 134, 167
+  index: -1

@@ -1,0 +1,139 @@
+
+4002_hd_shuiguai.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4002_hd_shuiguai_0001
+  rotate: false
+  xy: 135, 2
+  size: 73, 151
+  orig: 512, 512
+  offset: 219, 186
+  index: -1
+4002_hd_shuiguai_0002
+  rotate: true
+  xy: 711, 708
+  size: 74, 151
+  orig: 512, 512
+  offset: 220, 187
+  index: -1
+4002_hd_shuiguai_0003
+  rotate: false
+  xy: 311, 481
+  size: 75, 152
+  orig: 512, 512
+  offset: 221, 187
+  index: -1
+4002_hd_shuiguai_0004
+  rotate: true
+  xy: 547, 633
+  size: 74, 155
+  orig: 512, 512
+  offset: 222, 187
+  index: -1
+4002_hd_shuiguai_0005
+  rotate: true
+  xy: 391, 718
+  size: 74, 158
+  orig: 512, 512
+  offset: 222, 185
+  index: -1
+4002_hd_shuiguai_0006
+  rotate: false
+  xy: 186, 348
+  size: 79, 159
+  orig: 512, 512
+  offset: 221, 184
+  index: -1
+4002_hd_shuiguai_0007
+  rotate: false
+  xy: 308, 635
+  size: 81, 157
+  orig: 512, 512
+  offset: 220, 184
+  index: -1
+4002_hd_shuiguai_0008
+  rotate: true
+  xy: 391, 638
+  size: 78, 154
+  orig: 512, 512
+  offset: 219, 185
+  index: -1
+4002_hd_shuiguai_0009
+  rotate: false
+  xy: 2, 2
+  size: 131, 151
+  orig: 512, 512
+  offset: 172, 176
+  index: -1
+4002_hd_shuiguai_0010
+  rotate: false
+  xy: 2, 155
+  size: 167, 172
+  orig: 512, 512
+  offset: 132, 177
+  index: -1
+4002_hd_shuiguai_0011
+  rotate: false
+  xy: 816, 790
+  size: 155, 191
+  orig: 512, 512
+  offset: 127, 178
+  index: -1
+4002_hd_shuiguai_0012
+  rotate: false
+  xy: 2, 329
+  size: 182, 179
+  orig: 512, 512
+  offset: 134, 177
+  index: -1
+4002_hd_shuiguai_0013
+  rotate: false
+  xy: 2, 790
+  size: 272, 191
+  orig: 512, 512
+  offset: 182, 187
+  index: -1
+4002_hd_shuiguai_0014
+  rotate: false
+  xy: 276, 794
+  size: 273, 187
+  orig: 512, 512
+  offset: 183, 193
+  index: -1
+4002_hd_shuiguai_0015
+  rotate: true
+  xy: 2, 510
+  size: 278, 185
+  orig: 512, 512
+  offset: 178, 195
+  index: -1
+4002_hd_shuiguai_0016
+  rotate: false
+  xy: 551, 784
+  size: 263, 197
+  orig: 512, 512
+  offset: 193, 182
+  index: -1
+4002_hd_shuiguai_0017
+  rotate: false
+  xy: 189, 509
+  size: 120, 123
+  orig: 512, 512
+  offset: 186, 186
+  index: -1
+4002_hd_shuiguai_0018
+  rotate: false
+  xy: 189, 634
+  size: 117, 154
+  orig: 512, 512
+  offset: 164, 183
+  index: -1
+4002_hd_shuiguai_0019
+  rotate: true
+  xy: 551, 709
+  size: 73, 158
+  orig: 512, 512
+  offset: 204, 182
+  index: -1

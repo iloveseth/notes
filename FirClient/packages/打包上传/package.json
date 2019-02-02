@@ -1,0 +1,24 @@
+{
+    "name": "打包上传",
+    "version": "0.0.1",
+    "description": "The package template for getting started.",
+    "author": "Cocos Creator",
+    "main": "main.js",
+    "main-menu": {
+        "打包上传/压缩测试": {
+            "message": "打包上传:packTest"
+        },
+        "打包上传/外网普通测试": {
+            "message": "打包上传:uploadOutNormalTest"
+        },
+        "打包上传/外网手Q测试": {
+            "message": "打包上传:uploadQzoneTest"
+        },
+        "打包上传/典游热更": {
+            "message": "打包上传:uploadDyHotUpdateTest"
+        },
+        "打包上传/微信分包": {
+            "message": "打包上传:uploadWechatRelease"
+        }
+    }
+}

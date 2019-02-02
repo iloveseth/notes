@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "b59a85f3-a8f7-488c-bf2c-8253be62befc",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "libao_zhugong": {
+      "ver": "1.0.3",
+      "uuid": "f823470e-f3ea-4956-81ce-179b49211d29",
+      "rawTextureUuid": "b59a85f3-a8f7-488c-bf2c-8253be62befc",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 84,
+      "height": 84,
+      "rawWidth": 84,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

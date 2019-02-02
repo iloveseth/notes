@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "f7900711-d2f7-4127-b7a2-0162f7792182",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "chongzhilibao_img_0005": {
+      "ver": "1.0.3",
+      "uuid": "2ff3c524-3020-41d6-8385-1f38ad94c75e",
+      "rawTextureUuid": "f7900711-d2f7-4127-b7a2-0162f7792182",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 151,
+      "height": 49,
+      "rawWidth": 151,
+      "rawHeight": 49,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,41 @@
+
+saoguang_x.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+saoguang_x_00
+  rotate: false
+  xy: 262, 6
+  size: 32, 46
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+saoguang_x_01
+  rotate: false
+  xy: 102, 2
+  size: 79, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+saoguang_x_02
+  rotate: false
+  xy: 2, 2
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+saoguang_x_03
+  rotate: false
+  xy: 183, 4
+  size: 77, 96
+  orig: 98, 98
+  offset: 21, 2
+  index: -1
+saoguang_x_04
+  rotate: false
+  xy: 262, 54
+  size: 58, 46
+  orig: 98, 98
+  offset: 40, 52
+  index: -1

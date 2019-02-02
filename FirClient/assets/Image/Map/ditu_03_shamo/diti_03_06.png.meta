@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "e53711cf-e7bf-429b-be41-8e9881f7faed",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "diti_03_06": {
+      "ver": "1.0.3",
+      "uuid": "0f24aca1-de7e-4865-8d05-2d6622522c95",
+      "rawTextureUuid": "e53711cf-e7bf-429b-be41-8e9881f7faed",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1024,
+      "height": 909,
+      "rawWidth": 1024,
+      "rawHeight": 909,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

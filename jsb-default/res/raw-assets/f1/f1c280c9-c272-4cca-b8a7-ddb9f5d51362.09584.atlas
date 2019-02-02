@@ -1,0 +1,139 @@
+
+4012_hd_shayu.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4012_hd_shayu_0001
+  rotate: false
+  xy: 231, 797
+  size: 220, 128
+  orig: 512, 512
+  offset: 100, 197
+  index: -1
+4012_hd_shayu_0002
+  rotate: false
+  xy: 453, 794
+  size: 217, 131
+  orig: 512, 512
+  offset: 103, 196
+  index: -1
+4012_hd_shayu_0003
+  rotate: true
+  xy: 2, 218
+  size: 215, 136
+  orig: 512, 512
+  offset: 104, 196
+  index: -1
+4012_hd_shayu_0004
+  rotate: true
+  xy: 270, 236
+  size: 212, 138
+  orig: 512, 512
+  offset: 106, 198
+  index: -1
+4012_hd_shayu_0005
+  rotate: true
+  xy: 270, 450
+  size: 212, 139
+  orig: 512, 512
+  offset: 106, 199
+  index: -1
+4012_hd_shayu_0006
+  rotate: true
+  xy: 2, 3
+  size: 213, 138
+  orig: 512, 512
+  offset: 105, 198
+  index: -1
+4012_hd_shayu_0007
+  rotate: false
+  xy: 447, 656
+  size: 213, 136
+  orig: 512, 512
+  offset: 106, 196
+  index: -1
+4012_hd_shayu_0008
+  rotate: false
+  xy: 672, 794
+  size: 216, 131
+  orig: 512, 512
+  offset: 104, 196
+  index: -1
+4012_hd_shayu_0009
+  rotate: true
+  xy: 140, 219
+  size: 215, 128
+  orig: 512, 512
+  offset: 105, 197
+  index: -1
+4012_hd_shayu_0010
+  rotate: true
+  xy: 275, 23
+  size: 211, 127
+  orig: 512, 512
+  offset: 100, 200
+  index: -1
+4012_hd_shayu_0011
+  rotate: true
+  xy: 142, 2
+  size: 215, 131
+  orig: 512, 512
+  offset: 86, 200
+  index: -1
+4012_hd_shayu_0012
+  rotate: false
+  xy: 2, 655
+  size: 217, 138
+  orig: 512, 512
+  offset: 76, 196
+  index: -1
+4012_hd_shayu_0013
+  rotate: false
+  xy: 662, 657
+  size: 204, 135
+  orig: 512, 512
+  offset: 83, 201
+  index: -1
+4012_hd_shayu_0014
+  rotate: false
+  xy: 2, 795
+  size: 227, 130
+  orig: 512, 512
+  offset: 101, 193
+  index: -1
+4012_hd_shayu_0015
+  rotate: false
+  xy: 231, 664
+  size: 214, 131
+  orig: 512, 512
+  offset: 118, 195
+  index: -1
+4012_hd_shayu_0016
+  rotate: true
+  xy: 138, 436
+  size: 217, 130
+  orig: 512, 512
+  offset: 111, 197
+  index: -1
+4012_hd_shayu_0017
+  rotate: true
+  xy: 890, 732
+  size: 193, 132
+  orig: 512, 512
+  offset: 88, 201
+  index: -1
+4012_hd_shayu_0018
+  rotate: false
+  xy: 411, 516
+  size: 187, 138
+  orig: 512, 512
+  offset: 93, 199
+  index: -1
+4012_hd_shayu_0019
+  rotate: true
+  xy: 2, 435
+  size: 218, 134
+  orig: 512, 512
+  offset: 74, 199
+  index: -1

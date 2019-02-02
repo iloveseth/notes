@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "823a9a41-1573-41d6-b924-c254de69d31b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "zhucheng_btn_mubiao1": {
+      "ver": "1.0.3",
+      "uuid": "12d91d56-7a1a-49ae-97ae-aebedb724186",
+      "rawTextureUuid": "823a9a41-1573-41d6-b924-c254de69d31b",
+      "trimType": "custom",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 4.5,
+      "trimX": 8,
+      "trimY": 3,
+      "width": 60,
+      "height": 60,
+      "rawWidth": 75,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

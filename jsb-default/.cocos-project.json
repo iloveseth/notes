@@ -1,0 +1,7 @@
+{
+  "engine_version": "1.10.3",
+  "has_native": true,
+  "project_type": "js",
+  "projectName": "guaji",
+  "packageName": "org.cocos2d.guaji"
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "34195650-c9cf-4bd7-8866-d6733687e555",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "liaotian_pic_0003": {
+      "ver": "1.0.3",
+      "uuid": "02823400-edb5-417c-adee-0fcb0b99d20e",
+      "rawTextureUuid": "34195650-c9cf-4bd7-8866-d6733687e555",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 40,
+      "height": 40,
+      "rawWidth": 40,
+      "rawHeight": 40,
+      "borderTop": 18,
+      "borderBottom": 18,
+      "borderLeft": 18,
+      "borderRight": 18,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "1b0998f7-b898-4cf9-b283-edbfa0faa886",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "tongyong_img_0072": {
+      "ver": "1.0.3",
+      "uuid": "83b4e070-086b-4299-b904-be593fd03250",
+      "rawTextureUuid": "1b0998f7-b898-4cf9-b283-edbfa0faa886",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 669,
+      "height": 159,
+      "rawWidth": 669,
+      "rawHeight": 159,
+      "borderTop": 50,
+      "borderBottom": 54,
+      "borderLeft": 186,
+      "borderRight": 223,
+      "subMetas": {}
+    }
+  }
+}

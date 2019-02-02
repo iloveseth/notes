@@ -1,0 +1,7 @@
+{
+    "search.exclude": {
+        "**/library": true,
+        "**/local": true,
+        "**/temp": true
+    }
+}

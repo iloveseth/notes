@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "87ebd556-8be6-49b3-b010-81832fbcc694",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "4015_gudi_bianfu": {
+      "ver": "1.0.3",
+      "uuid": "20034e46-c21f-4a56-8616-0785f3c5c47f",
+      "rawTextureUuid": "87ebd556-8be6-49b3-b010-81832fbcc694",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -76,
+      "offsetY": 8.5,
+      "trimX": 107,
+      "trimY": 187,
+      "width": 146,
+      "height": 121,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

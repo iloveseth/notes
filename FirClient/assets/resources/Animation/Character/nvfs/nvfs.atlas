@@ -1,0 +1,1598 @@
+
+nvfs.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0021
+  rotate: true
+  xy: 739, 144
+  size: 875, 277
+  orig: 1920, 1024
+  offset: 902, 418
+  index: -1
+5021_nvfs_0032
+  rotate: false
+  xy: 2, 2
+  size: 587, 311
+  orig: 1920, 1024
+  offset: 836, 432
+  index: -1
+5022_nvfs_0018
+  rotate: false
+  xy: 2, 315
+  size: 735, 704
+  orig: 1024, 1024
+  offset: 145, 147
+  index: -1
+yingzi
+  rotate: false
+  xy: 591, 252
+  size: 103, 61
+  orig: 512, 512
+  offset: 203, 200
+  index: -1
+
+nvfs2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0020
+  rotate: true
+  xy: 730, 99
+  size: 888, 250
+  orig: 1920, 1024
+  offset: 888, 413
+  index: -1
+5021_nvfs_0035
+  rotate: false
+  xy: 2, 2
+  size: 562, 279
+  orig: 1920, 1024
+  offset: 871, 472
+  index: -1
+5022_nvfs_0017
+  rotate: false
+  xy: 2, 283
+  size: 726, 704
+  orig: 1024, 1024
+  offset: 150, 162
+  index: -1
+nvfs_dj006
+  rotate: false
+  xy: 566, 46
+  size: 162, 235
+  orig: 512, 512
+  offset: 176, 181
+  index: -1
+
+nvfs3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0015
+  rotate: true
+  xy: 2, 2
+  size: 773, 218
+  orig: 1920, 1024
+  offset: 937, 459
+  index: -1
+5021_nvfs_0016
+  rotate: true
+  xy: 222, 10
+  size: 765, 216
+  orig: 1920, 1024
+  offset: 941, 459
+  index: -1
+5021_nvfs_0024
+  rotate: false
+  xy: 2, 777
+  size: 917, 240
+  orig: 1920, 1024
+  offset: 855, 468
+  index: -1
+5022_nvfs_0008
+  rotate: true
+  xy: 440, 133
+  size: 642, 580
+  orig: 1024, 1024
+  offset: 194, 317
+  index: -1
+
+nvfs4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0014
+  rotate: true
+  xy: 2, 2
+  size: 756, 219
+  orig: 1920, 1024
+  offset: 945, 459
+  index: -1
+5021_nvfs_0017
+  rotate: true
+  xy: 223, 3
+  size: 755, 216
+  orig: 1920, 1024
+  offset: 949, 459
+  index: -1
+5021_nvfs_0023
+  rotate: false
+  xy: 2, 760
+  size: 900, 226
+  orig: 1920, 1024
+  offset: 876, 475
+  index: -1
+5021_nvfs_0031
+  rotate: false
+  xy: 441, 15
+  size: 570, 357
+  orig: 1920, 1024
+  offset: 855, 444
+  index: -1
+5021_nvfs_0034
+  rotate: false
+  xy: 441, 374
+  size: 579, 384
+  orig: 1920, 1024
+  offset: 854, 462
+  index: -1
+
+nvfs5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0018
+  rotate: true
+  xy: 217, 66
+  size: 740, 194
+  orig: 1920, 1024
+  offset: 957, 457
+  index: -1
+5021_nvfs_0019
+  rotate: true
+  xy: 2, 51
+  size: 755, 213
+  orig: 1920, 1024
+  offset: 974, 429
+  index: -1
+5021_nvfs_0025
+  rotate: false
+  xy: 2, 808
+  size: 892, 214
+  orig: 1920, 1024
+  offset: 873, 505
+  index: -1
+5022_nvfs_0020
+  rotate: false
+  xy: 413, 219
+  size: 607, 587
+  orig: 1024, 1024
+  offset: 214, 318
+  index: -1
+nvfs_pb020
+  rotate: true
+  xy: 413, 2
+  size: 215, 194
+  orig: 512, 512
+  offset: 157, 177
+  index: -1
+nvfs_pb036
+  rotate: true
+  xy: 609, 2
+  size: 215, 189
+  orig: 512, 512
+  offset: 164, 181
+  index: -1
+nvfs_pb037
+  rotate: true
+  xy: 800, 2
+  size: 215, 187
+  orig: 512, 512
+  offset: 163, 181
+  index: -1
+
+nvfs6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0004
+  rotate: true
+  xy: 873, 673
+  size: 163, 149
+  orig: 1920, 1024
+  offset: 860, 462
+  index: -1
+5021_nvfs_0022
+  rotate: false
+  xy: 2, 786
+  size: 869, 236
+  orig: 1920, 1024
+  offset: 907, 453
+  index: -1
+5021_nvfs_0038
+  rotate: false
+  xy: 860, 37
+  size: 162, 182
+  orig: 1920, 1024
+  offset: 866, 462
+  index: -1
+5022_nvfs_0010
+  rotate: true
+  xy: 2, 6
+  size: 665, 592
+  orig: 1024, 1024
+  offset: 180, 295
+  index: -1
+nvfs_dj007
+  rotate: false
+  xy: 861, 438
+  size: 161, 233
+  orig: 512, 512
+  offset: 176, 182
+  index: -1
+nvfs_dj028
+  rotate: false
+  xy: 873, 838
+  size: 149, 184
+  orig: 512, 512
+  offset: 164, 198
+  index: -1
+nvfs_dz033
+  rotate: true
+  xy: 860, 221
+  size: 215, 162
+  orig: 512, 512
+  offset: 123, 166
+  index: -1
+nvfs_gj022
+  rotate: false
+  xy: 596, 2
+  size: 206, 157
+  orig: 800, 800
+  offset: 286, 344
+  index: -1
+nvfs_gj026
+  rotate: false
+  xy: 596, 161
+  size: 262, 305
+  orig: 800, 800
+  offset: 314, 354
+  index: -1
+nvfs_gj027
+  rotate: false
+  xy: 596, 468
+  size: 263, 316
+  orig: 800, 800
+  offset: 313, 349
+  index: -1
+
+nvfs7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0026
+  rotate: false
+  xy: 2, 810
+  size: 864, 212
+  orig: 1920, 1024
+  offset: 896, 509
+  index: -1
+5022_nvfs_0014
+  rotate: false
+  xy: 2, 7
+  size: 698, 663
+  orig: 1024, 1024
+  offset: 163, 220
+  index: -1
+nvfs_dj001
+  rotate: true
+  xy: 702, 2
+  size: 168, 239
+  orig: 512, 512
+  offset: 172, 176
+  index: -1
+nvfs_dj026
+  rotate: false
+  xy: 868, 841
+  size: 154, 181
+  orig: 512, 512
+  offset: 154, 200
+  index: -1
+nvfs_gj028
+  rotate: true
+  xy: 702, 172
+  size: 243, 319
+  orig: 800, 800
+  offset: 326, 342
+  index: -1
+nvfs_gj029
+  rotate: true
+  xy: 702, 417
+  size: 253, 320
+  orig: 800, 800
+  offset: 308, 335
+  index: -1
+nvfs_pb073
+  rotate: true
+  xy: 868, 672
+  size: 167, 154
+  orig: 512, 512
+  offset: 177, 218
+  index: -1
+
+nvfs8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0007
+  rotate: false
+  xy: 494, 217
+  size: 479, 198
+  orig: 1920, 1024
+  offset: 884, 466
+  index: -1
+5021_nvfs_0008
+  rotate: false
+  xy: 494, 417
+  size: 527, 196
+  orig: 1920, 1024
+  offset: 889, 468
+  index: -1
+5021_nvfs_0012
+  rotate: false
+  xy: 2, 811
+  size: 719, 211
+  orig: 1920, 1024
+  offset: 897, 467
+  index: -1
+5021_nvfs_0028
+  rotate: true
+  xy: 723, 853
+  size: 169, 277
+  orig: 1920, 1024
+  offset: 885, 557
+  index: -1
+5021_nvfs_0029
+  rotate: true
+  xy: 723, 615
+  size: 236, 261
+  orig: 1920, 1024
+  offset: 830, 552
+  index: -1
+5022_nvfs_0023
+  rotate: true
+  xy: 2, 2
+  size: 611, 490
+  orig: 1024, 1024
+  offset: 206, 425
+  index: -1
+nvfs_dj020
+  rotate: true
+  xy: 394, 616
+  size: 193, 204
+  orig: 512, 512
+  offset: 156, 183
+  index: -1
+nvfs_dz032
+  rotate: true
+  xy: 494, 2
+  size: 213, 161
+  orig: 512, 512
+  offset: 124, 166
+  index: -1
+nvfs_pb000
+  rotate: false
+  xy: 211, 615
+  size: 181, 194
+  orig: 512, 512
+  offset: 174, 190
+  index: -1
+nvfs_pb018
+  rotate: false
+  xy: 2, 615
+  size: 207, 194
+  orig: 512, 512
+  offset: 168, 184
+  index: -1
+nvfs_pb035
+  rotate: true
+  xy: 657, 3
+  size: 212, 188
+  orig: 512, 512
+  offset: 168, 185
+  index: -1
+nvfs_pb043
+  rotate: true
+  xy: 847, 10
+  size: 205, 175
+  orig: 512, 512
+  offset: 164, 197
+  index: -1
+
+nvfs9.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0011
+  rotate: false
+  xy: 2, 65
+  size: 652, 215
+  orig: 1920, 1024
+  offset: 914, 468
+  index: -1
+5021_nvfs_0013
+  rotate: true
+  xy: 722, 260
+  size: 711, 219
+  orig: 1920, 1024
+  offset: 943, 459
+  index: -1
+5022_nvfs_0016
+  rotate: false
+  xy: 2, 282
+  size: 718, 689
+  orig: 1024, 1024
+  offset: 153, 183
+  index: -1
+nvfs_dj005
+  rotate: false
+  xy: 854, 22
+  size: 168, 236
+  orig: 512, 512
+  offset: 174, 180
+  index: -1
+nvfs_gj025
+  rotate: true
+  xy: 656, 2
+  size: 256, 196
+  orig: 800, 800
+  offset: 301, 348
+  index: -1
+
+nvfs10.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0002
+  rotate: true
+  xy: 727, 656
+  size: 154, 164
+  orig: 1920, 1024
+  offset: 865, 464
+  index: -1
+5021_nvfs_0003
+  rotate: false
+  xy: 173, 337
+  size: 172, 160
+  orig: 1920, 1024
+  offset: 862, 464
+  index: -1
+5021_nvfs_0005
+  rotate: false
+  xy: 2, 812
+  size: 168, 152
+  orig: 1920, 1024
+  offset: 873, 464
+  index: -1
+5021_nvfs_0006
+  rotate: false
+  xy: 349, 498
+  size: 174, 157
+  orig: 1920, 1024
+  offset: 878, 465
+  index: -1
+5022_nvfs_0001
+  rotate: false
+  xy: 172, 812
+  size: 180, 152
+  orig: 1024, 1024
+  offset: 417, 464
+  index: -1
+5022_nvfs_0027
+  rotate: false
+  xy: 690, 168
+  size: 208, 163
+  orig: 1024, 1024
+  offset: 389, 449
+  index: -1
+nvfs_dj000
+  rotate: true
+  xy: 570, 2
+  size: 164, 236
+  orig: 512, 512
+  offset: 174, 179
+  index: -1
+nvfs_dj024
+  rotate: true
+  xy: 354, 812
+  size: 152, 179
+  orig: 512, 512
+  offset: 160, 201
+  index: -1
+nvfs_dj025
+  rotate: true
+  xy: 2, 657
+  size: 153, 180
+  orig: 512, 512
+  offset: 155, 200
+  index: -1
+nvfs_dj027
+  rotate: true
+  xy: 535, 812
+  size: 152, 182
+  orig: 512, 512
+  offset: 157, 199
+  index: -1
+nvfs_dj029
+  rotate: true
+  xy: 184, 657
+  size: 153, 182
+  orig: 512, 512
+  offset: 163, 199
+  index: -1
+nvfs_dj030
+  rotate: true
+  xy: 368, 657
+  size: 153, 181
+  orig: 512, 512
+  offset: 163, 200
+  index: -1
+nvfs_dj031
+  rotate: true
+  xy: 719, 812
+  size: 152, 180
+  orig: 512, 512
+  offset: 162, 200
+  index: -1
+nvfs_dj032
+  rotate: true
+  xy: 696, 333
+  size: 161, 180
+  orig: 512, 512
+  offset: 175, 201
+  index: -1
+nvfs_dj033
+  rotate: true
+  xy: 507, 171
+  size: 163, 181
+  orig: 512, 512
+  offset: 175, 200
+  index: -1
+nvfs_dj038
+  rotate: true
+  xy: 172, 7
+  size: 163, 182
+  orig: 512, 512
+  offset: 173, 200
+  index: -1
+nvfs_dj039
+  rotate: true
+  xy: 347, 336
+  size: 160, 181
+  orig: 512, 512
+  offset: 175, 200
+  index: -1
+nvfs_dz034
+  rotate: false
+  xy: 808, 2
+  size: 214, 164
+  orig: 512, 512
+  offset: 123, 165
+  index: -1
+nvfs_dz039
+  rotate: false
+  xy: 356, 6
+  size: 212, 163
+  orig: 512, 512
+  offset: 123, 166
+  index: -1
+nvfs_gj023
+  rotate: false
+  xy: 551, 657
+  size: 174, 153
+  orig: 800, 800
+  offset: 318, 344
+  index: -1
+nvfs_pb054
+  rotate: true
+  xy: 2, 175
+  size: 162, 169
+  orig: 512, 512
+  offset: 168, 199
+  index: -1
+nvfs_pb055
+  rotate: true
+  xy: 2, 339
+  size: 159, 169
+  orig: 512, 512
+  offset: 168, 202
+  index: -1
+nvfs_pb056
+  rotate: true
+  xy: 525, 498
+  size: 157, 169
+  orig: 512, 512
+  offset: 168, 204
+  index: -1
+nvfs_pb057
+  rotate: true
+  xy: 696, 496
+  size: 158, 166
+  orig: 512, 512
+  offset: 166, 208
+  index: -1
+nvfs_pb058
+  rotate: true
+  xy: 530, 336
+  size: 160, 164
+  orig: 512, 512
+  offset: 162, 209
+  index: -1
+nvfs_pb059
+  rotate: true
+  xy: 2, 9
+  size: 164, 168
+  orig: 512, 512
+  offset: 157, 202
+  index: -1
+nvfs_pb071
+  rotate: false
+  xy: 173, 499
+  size: 174, 156
+  orig: 512, 512
+  offset: 175, 213
+  index: -1
+nvfs_pb072
+  rotate: false
+  xy: 2, 500
+  size: 169, 155
+  orig: 512, 512
+  offset: 178, 217
+  index: -1
+nvfs_pb074
+  rotate: false
+  xy: 173, 173
+  size: 165, 162
+  orig: 512, 512
+  offset: 174, 210
+  index: -1
+nvfs_pb077
+  rotate: false
+  xy: 340, 172
+  size: 165, 162
+  orig: 512, 512
+  offset: 168, 202
+  index: -1
+
+nvfs11.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5022_nvfs_0028
+  rotate: false
+  xy: 350, 3
+  size: 187, 170
+  orig: 1024, 1024
+  offset: 396, 449
+  index: -1
+nvfs_dj034
+  rotate: true
+  xy: 805, 684
+  size: 167, 182
+  orig: 512, 512
+  offset: 174, 200
+  index: -1
+nvfs_dj035
+  rotate: true
+  xy: 173, 346
+  size: 168, 183
+  orig: 512, 512
+  offset: 173, 199
+  index: -1
+nvfs_dj037
+  rotate: true
+  xy: 358, 346
+  size: 168, 183
+  orig: 512, 512
+  offset: 170, 199
+  index: -1
+nvfs_dz035
+  rotate: false
+  xy: 215, 516
+  size: 212, 167
+  orig: 512, 512
+  offset: 123, 165
+  index: -1
+nvfs_dz036
+  rotate: false
+  xy: 402, 175
+  size: 212, 169
+  orig: 512, 512
+  offset: 123, 164
+  index: -1
+nvfs_dz037
+  rotate: false
+  xy: 2, 517
+  size: 211, 167
+  orig: 512, 512
+  offset: 123, 165
+  index: -1
+nvfs_dz038
+  rotate: false
+  xy: 2, 686
+  size: 211, 166
+  orig: 512, 512
+  offset: 123, 165
+  index: -1
+nvfs_gj021
+  rotate: false
+  xy: 543, 346
+  size: 212, 168
+  orig: 800, 800
+  offset: 280, 344
+  index: -1
+nvfs_gj024
+  rotate: false
+  xy: 215, 685
+  size: 209, 166
+  orig: 800, 800
+  offset: 307, 342
+  index: -1
+nvfs_pb009
+  rotate: true
+  xy: 757, 345
+  size: 168, 199
+  orig: 512, 512
+  offset: 170, 188
+  index: -1
+nvfs_pb010
+  rotate: true
+  xy: 426, 685
+  size: 166, 197
+  orig: 512, 512
+  offset: 174, 189
+  index: -1
+nvfs_pb011
+  rotate: true
+  xy: 429, 516
+  size: 167, 196
+  orig: 512, 512
+  offset: 176, 187
+  index: -1
+nvfs_pb012
+  rotate: true
+  xy: 2, 176
+  size: 168, 191
+  orig: 512, 512
+  offset: 178, 187
+  index: -1
+nvfs_pb044
+  rotate: false
+  xy: 195, 176
+  size: 205, 168
+  orig: 512, 512
+  offset: 163, 200
+  index: -1
+nvfs_pb045
+  rotate: false
+  xy: 803, 515
+  size: 204, 167
+  orig: 512, 512
+  offset: 163, 200
+  index: -1
+nvfs_pb048
+  rotate: true
+  xy: 616, 174
+  size: 169, 176
+  orig: 512, 512
+  offset: 157, 196
+  index: -1
+nvfs_pb049
+  rotate: true
+  xy: 625, 685
+  size: 166, 178
+  orig: 512, 512
+  offset: 163, 196
+  index: -1
+nvfs_pb050
+  rotate: true
+  xy: 794, 174
+  size: 169, 174
+  orig: 512, 512
+  offset: 163, 201
+  index: -1
+nvfs_pb051
+  rotate: true
+  xy: 2, 5
+  size: 169, 171
+  orig: 512, 512
+  offset: 164, 201
+  index: -1
+nvfs_pb052
+  rotate: true
+  xy: 175, 5
+  size: 169, 173
+  orig: 512, 512
+  offset: 165, 195
+  index: -1
+nvfs_pb053
+  rotate: true
+  xy: 355, 853
+  size: 165, 168
+  orig: 512, 512
+  offset: 168, 199
+  index: -1
+nvfs_pb060
+  rotate: true
+  xy: 627, 516
+  size: 167, 174
+  orig: 512, 512
+  offset: 152, 193
+  index: -1
+nvfs_pb061
+  rotate: false
+  xy: 525, 853
+  size: 169, 165
+  orig: 512, 512
+  offset: 149, 201
+  index: -1
+nvfs_pb062
+  rotate: false
+  xy: 539, 2
+  size: 171, 170
+  orig: 512, 512
+  offset: 148, 197
+  index: -1
+nvfs_pb067
+  rotate: false
+  xy: 712, 2
+  size: 181, 170
+  orig: 512, 512
+  offset: 163, 201
+  index: -1
+nvfs_pb070
+  rotate: false
+  xy: 2, 854
+  size: 175, 164
+  orig: 512, 512
+  offset: 173, 203
+  index: -1
+nvfs_pb075
+  rotate: true
+  xy: 696, 853
+  size: 165, 167
+  orig: 512, 512
+  offset: 172, 201
+  index: -1
+nvfs_pb076
+  rotate: true
+  xy: 179, 854
+  size: 164, 174
+  orig: 512, 512
+  offset: 170, 191
+  index: -1
+nvfs_pb078
+  rotate: true
+  xy: 2, 348
+  size: 167, 169
+  orig: 512, 512
+  offset: 166, 197
+  index: -1
+
+nvfs12.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0001
+  rotate: false
+  xy: 2, 364
+  size: 174, 175
+  orig: 1920, 1024
+  offset: 864, 461
+  index: -1
+5022_nvfs_0002
+  rotate: false
+  xy: 178, 539
+  size: 207, 172
+  orig: 1024, 1024
+  offset: 387, 467
+  index: -1
+5022_nvfs_0003
+  rotate: false
+  xy: 2, 8
+  size: 197, 177
+  orig: 1024, 1024
+  offset: 419, 476
+  index: -1
+5022_nvfs_0029
+  rotate: true
+  xy: 828, 360
+  size: 176, 177
+  orig: 1024, 1024
+  offset: 401, 449
+  index: -1
+nvfs_dj002
+  rotate: true
+  xy: 744, 538
+  size: 173, 240
+  orig: 512, 512
+  offset: 170, 176
+  index: -1
+nvfs_dj003
+  rotate: true
+  xy: 206, 186
+  size: 176, 237
+  orig: 512, 512
+  offset: 169, 179
+  index: -1
+nvfs_dj004
+  rotate: true
+  xy: 178, 364
+  size: 173, 238
+  orig: 512, 512
+  offset: 172, 179
+  index: -1
+nvfs_dj036
+  rotate: true
+  xy: 182, 713
+  size: 171, 184
+  orig: 512, 512
+  offset: 169, 199
+  index: -1
+nvfs_gj020
+  rotate: false
+  xy: 418, 364
+  size: 215, 173
+  orig: 800, 800
+  offset: 288, 344
+  index: -1
+nvfs_pb006
+  rotate: true
+  xy: 793, 2
+  size: 178, 200
+  orig: 512, 512
+  offset: 162, 179
+  index: -1
+nvfs_pb007
+  rotate: true
+  xy: 2, 187
+  size: 175, 202
+  orig: 512, 512
+  offset: 162, 179
+  index: -1
+nvfs_pb008
+  rotate: true
+  xy: 368, 713
+  size: 171, 200
+  orig: 512, 512
+  offset: 165, 183
+  index: -1
+nvfs_pb013
+  rotate: true
+  xy: 570, 713
+  size: 171, 190
+  orig: 512, 512
+  offset: 178, 187
+  index: -1
+nvfs_pb014
+  rotate: true
+  xy: 635, 363
+  size: 173, 191
+  orig: 512, 512
+  offset: 178, 187
+  index: -1
+nvfs_pb015
+  rotate: true
+  xy: 623, 185
+  size: 176, 192
+  orig: 512, 512
+  offset: 176, 189
+  index: -1
+nvfs_pb029
+  rotate: false
+  xy: 817, 182
+  size: 197, 176
+  orig: 512, 512
+  offset: 175, 191
+  index: -1
+nvfs_pb030
+  rotate: false
+  xy: 410, 7
+  size: 198, 177
+  orig: 512, 512
+  offset: 174, 191
+  index: -1
+nvfs_pb046
+  rotate: false
+  xy: 762, 713
+  size: 205, 171
+  orig: 512, 512
+  offset: 163, 197
+  index: -1
+nvfs_pb047
+  rotate: false
+  xy: 201, 8
+  size: 207, 176
+  orig: 512, 512
+  offset: 165, 194
+  index: -1
+nvfs_pb063
+  rotate: true
+  xy: 2, 541
+  size: 171, 174
+  orig: 512, 512
+  offset: 150, 195
+  index: -1
+nvfs_pb064
+  rotate: false
+  xy: 445, 186
+  size: 176, 176
+  orig: 512, 512
+  offset: 162, 196
+  index: -1
+nvfs_pb066
+  rotate: false
+  xy: 387, 539
+  size: 180, 172
+  orig: 512, 512
+  offset: 161, 201
+  index: -1
+nvfs_pb068
+  rotate: false
+  xy: 610, 6
+  size: 181, 177
+  orig: 512, 512
+  offset: 164, 190
+  index: -1
+nvfs_pb069
+  rotate: false
+  xy: 2, 714
+  size: 178, 170
+  orig: 512, 512
+  offset: 168, 197
+  index: -1
+nvfs_pb079
+  rotate: true
+  xy: 569, 539
+  size: 172, 173
+  orig: 512, 512
+  offset: 163, 195
+  index: -1
+
+nvfs13.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0030
+  rotate: false
+  xy: 182, 776
+  size: 224, 180
+  orig: 1920, 1024
+  offset: 856, 539
+  index: -1
+nvfs_dj008
+  rotate: true
+  xy: 604, 402
+  size: 185, 226
+  orig: 512, 512
+  offset: 164, 175
+  index: -1
+nvfs_dj009
+  rotate: true
+  xy: 218, 26
+  size: 187, 229
+  orig: 512, 512
+  offset: 163, 173
+  index: -1
+nvfs_dj010
+  rotate: true
+  xy: 449, 25
+  size: 187, 228
+  orig: 512, 512
+  offset: 163, 174
+  index: -1
+nvfs_dj015
+  rotate: true
+  xy: 679, 2
+  size: 187, 225
+  orig: 512, 512
+  offset: 163, 177
+  index: -1
+nvfs_dj016
+  rotate: true
+  xy: 408, 774
+  size: 182, 197
+  orig: 512, 512
+  offset: 164, 188
+  index: -1
+nvfs_dj017
+  rotate: true
+  xy: 2, 217
+  size: 187, 198
+  orig: 512, 512
+  offset: 160, 188
+  index: -1
+nvfs_dj022
+  rotate: true
+  xy: 202, 217
+  size: 185, 201
+  orig: 512, 512
+  offset: 163, 185
+  index: -1
+nvfs_dj023
+  rotate: true
+  xy: 607, 774
+  size: 182, 200
+  orig: 512, 512
+  offset: 165, 186
+  index: -1
+nvfs_pb001
+  rotate: true
+  xy: 610, 589
+  size: 183, 197
+  orig: 512, 512
+  offset: 172, 191
+  index: -1
+nvfs_pb002
+  rotate: true
+  xy: 2, 406
+  size: 184, 199
+  orig: 512, 512
+  offset: 169, 190
+  index: -1
+nvfs_pb003
+  rotate: true
+  xy: 203, 404
+  size: 184, 197
+  orig: 512, 512
+  offset: 166, 188
+  index: -1
+nvfs_pb004
+  rotate: false
+  xy: 832, 390
+  size: 185, 197
+  orig: 512, 512
+  offset: 163, 184
+  index: -1
+nvfs_pb005
+  rotate: true
+  xy: 809, 774
+  size: 182, 198
+  orig: 512, 512
+  offset: 162, 180
+  index: -1
+nvfs_pb016
+  rotate: false
+  xy: 402, 404
+  size: 200, 184
+  orig: 512, 512
+  offset: 174, 190
+  index: -1
+nvfs_pb027
+  rotate: true
+  xy: 829, 191
+  size: 197, 190
+  orig: 512, 512
+  offset: 175, 184
+  index: -1
+nvfs_pb028
+  rotate: false
+  xy: 2, 592
+  size: 196, 182
+  orig: 512, 512
+  offset: 176, 187
+  index: -1
+nvfs_pb031
+  rotate: false
+  xy: 200, 592
+  size: 198, 182
+  orig: 512, 512
+  offset: 174, 189
+  index: -1
+nvfs_pb032
+  rotate: false
+  xy: 400, 590
+  size: 208, 182
+  orig: 512, 512
+  offset: 167, 191
+  index: -1
+nvfs_pb033
+  rotate: false
+  xy: 405, 215
+  size: 210, 185
+  orig: 512, 512
+  offset: 168, 191
+  index: -1
+nvfs_pb034
+  rotate: false
+  xy: 617, 214
+  size: 210, 186
+  orig: 512, 512
+  offset: 170, 190
+  index: -1
+nvfs_pb038
+  rotate: false
+  xy: 2, 29
+  size: 214, 186
+  orig: 512, 512
+  offset: 161, 183
+  index: -1
+nvfs_pb042
+  rotate: false
+  xy: 809, 589
+  size: 206, 183
+  orig: 512, 512
+  offset: 165, 193
+  index: -1
+nvfs_pb065
+  rotate: false
+  xy: 2, 778
+  size: 178, 178
+  orig: 512, 512
+  offset: 160, 196
+  index: -1
+
+nvfs14.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0027
+  rotate: true
+  xy: 2, 19
+  size: 197, 203
+  orig: 1920, 1024
+  offset: 884, 566
+  index: -1
+5021_nvfs_0037
+  rotate: false
+  xy: 420, 2
+  size: 561, 199
+  orig: 1920, 1024
+  offset: 872, 457
+  index: -1
+nvfs_dj011
+  rotate: true
+  xy: 2, 601
+  size: 188, 229
+  orig: 512, 512
+  offset: 163, 174
+  index: -1
+nvfs_dj012
+  rotate: true
+  xy: 208, 215
+  size: 191, 229
+  orig: 512, 512
+  offset: 160, 174
+  index: -1
+nvfs_dj013
+  rotate: true
+  xy: 459, 600
+  size: 189, 226
+  orig: 512, 512
+  offset: 162, 177
+  index: -1
+nvfs_dj014
+  rotate: true
+  xy: 233, 601
+  size: 188, 224
+  orig: 512, 512
+  offset: 162, 178
+  index: -1
+nvfs_dj018
+  rotate: true
+  xy: 215, 409
+  size: 190, 201
+  orig: 512, 512
+  offset: 158, 185
+  index: -1
+nvfs_dj019
+  rotate: true
+  xy: 418, 408
+  size: 190, 205
+  orig: 512, 512
+  offset: 158, 182
+  index: -1
+nvfs_dj021
+  rotate: true
+  xy: 2, 791
+  size: 187, 202
+  orig: 512, 512
+  offset: 161, 185
+  index: -1
+nvfs_pb017
+  rotate: false
+  xy: 625, 408
+  size: 203, 190
+  orig: 512, 512
+  offset: 172, 188
+  index: -1
+nvfs_pb019
+  rotate: false
+  xy: 207, 17
+  size: 211, 196
+  orig: 512, 512
+  offset: 162, 179
+  index: -1
+nvfs_pb021
+  rotate: false
+  xy: 687, 600
+  size: 216, 189
+  orig: 512, 512
+  offset: 155, 179
+  index: -1
+nvfs_pb022
+  rotate: false
+  xy: 2, 410
+  size: 211, 189
+  orig: 512, 512
+  offset: 158, 180
+  index: -1
+nvfs_pb023
+  rotate: false
+  xy: 2, 218
+  size: 204, 190
+  orig: 512, 512
+  offset: 164, 182
+  index: -1
+nvfs_pb024
+  rotate: true
+  xy: 830, 400
+  size: 198, 192
+  orig: 512, 512
+  offset: 171, 183
+  index: -1
+nvfs_pb025
+  rotate: false
+  xy: 439, 211
+  size: 197, 195
+  orig: 512, 512
+  offset: 173, 183
+  index: -1
+nvfs_pb026
+  rotate: false
+  xy: 638, 203
+  size: 197, 195
+  orig: 512, 512
+  offset: 174, 183
+  index: -1
+nvfs_pb039
+  rotate: false
+  xy: 206, 791
+  size: 211, 187
+  orig: 512, 512
+  offset: 161, 185
+  index: -1
+nvfs_pb040
+  rotate: false
+  xy: 419, 791
+  size: 208, 187
+  orig: 512, 512
+  offset: 163, 187
+  index: -1
+nvfs_pb041
+  rotate: false
+  xy: 629, 791
+  size: 208, 187
+  orig: 512, 512
+  offset: 164, 190
+  index: -1
+
+nvfs15.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0009
+  rotate: true
+  xy: 712, 302
+  size: 586, 208
+  orig: 1920, 1024
+  offset: 882, 468
+  index: -1
+5021_nvfs_0010
+  rotate: false
+  xy: 2, 2
+  size: 604, 209
+  orig: 1920, 1024
+  offset: 913, 468
+  index: -1
+5022_nvfs_0015
+  rotate: false
+  xy: 2, 213
+  size: 708, 675
+  orig: 1024, 1024
+  offset: 158, 202
+  index: -1
+
+nvfs16.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0036
+  rotate: false
+  xy: 2, 729
+  size: 549, 209
+  orig: 1920, 1024
+  offset: 884, 460
+  index: -1
+5022_nvfs_0024
+  rotate: true
+  xy: 490, 2
+  size: 500, 502
+  orig: 1024, 1024
+  offset: 237, 413
+  index: -1
+5022_nvfs_0025
+  rotate: true
+  xy: 2, 251
+  size: 476, 486
+  orig: 1024, 1024
+  offset: 261, 429
+  index: -1
+5022_nvfs_0026
+  rotate: false
+  xy: 553, 504
+  size: 442, 434
+  orig: 1024, 1024
+  offset: 295, 429
+  index: -1
+
+nvfs17.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5021_nvfs_0033
+  rotate: false
+  xy: 2, 2
+  size: 585, 353
+  orig: 1920, 1024
+  offset: 838, 453
+  index: -1
+5022_nvfs_0013
+  rotate: false
+  xy: 2, 357
+  size: 690, 652
+  orig: 1024, 1024
+  offset: 167, 236
+  index: -1
+
+nvfs18.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5022_nvfs_0004
+  rotate: false
+  xy: 2, 494
+  size: 622, 470
+  orig: 1024, 1024
+  offset: 201, 356
+  index: -1
+5022_nvfs_0022
+  rotate: false
+  xy: 2, 2
+  size: 612, 490
+  orig: 1024, 1024
+  offset: 206, 425
+  index: -1
+
+nvfs19.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5022_nvfs_0012
+  rotate: false
+  xy: 2, 2
+  size: 682, 644
+  orig: 1024, 1024
+  offset: 171, 247
+  index: -1
+
+nvfs20.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5022_nvfs_0019
+  rotate: false
+  xy: 2, 2
+  size: 672, 646
+  orig: 1024, 1024
+  offset: 182, 243
+  index: -1
+
+nvfs21.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5022_nvfs_0011
+  rotate: false
+  xy: 2, 2
+  size: 674, 624
+  orig: 1024, 1024
+  offset: 175, 268
+  index: -1
+
+nvfs22.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5022_nvfs_0009
+  rotate: false
+  xy: 2, 2
+  size: 655, 585
+  orig: 1024, 1024
+  offset: 185, 306
+  index: -1
+
+nvfs23.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5022_nvfs_0007
+  rotate: false
+  xy: 2, 2
+  size: 624, 566
+  orig: 1024, 1024
+  offset: 209, 328
+  index: -1
+
+nvfs24.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5022_nvfs_0006
+  rotate: false
+  xy: 2, 2
+  size: 626, 551
+  orig: 1024, 1024
+  offset: 203, 338
+  index: -1
+
+nvfs25.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5022_nvfs_0021
+  rotate: false
+  xy: 2, 2
+  size: 636, 537
+  orig: 1024, 1024
+  offset: 194, 378
+  index: -1
+
+nvfs26.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5022_nvfs_0005
+  rotate: false
+  xy: 2, 2
+  size: 629, 522
+  orig: 1024, 1024
+  offset: 198, 347
+  index: -1

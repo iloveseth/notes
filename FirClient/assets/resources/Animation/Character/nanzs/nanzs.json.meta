@@ -1,0 +1,26 @@
+{
+  "ver": "1.2.0",
+  "uuid": "10c7669c-1b20-4c6c-97e0-cc843292c3d7",
+  "textures": [
+    "7b45935f-b202-4e25-bb3c-c6cdc2fdb296",
+    "0f18d9f3-8ff7-49db-89c2-b84b99fd42c8",
+    "ef1ac4fb-12ed-4ecb-b423-0300ebb34532",
+    "6a5c6b38-c4c7-4630-a0de-8c37beb626bd",
+    "8052b47d-b14d-4d02-bb15-c00125d5b43e",
+    "b86a64ae-89c7-4458-90c1-834165aefd9d",
+    "8a4d6959-04b2-4fc5-ad64-32e64d51da98",
+    "12ad0418-8d0b-40b8-8ca1-525740e313c3",
+    "05240376-ef19-4e56-88df-f6dbdcb16ee2",
+    "facda607-1beb-44b9-af45-05cc083a78e1",
+    "975d22a1-21ac-4ba4-a6e8-bd1ee95fdd63",
+    "976046c5-e72d-4b46-93c3-86c79d40f265",
+    "fe4e42bb-a28a-48bd-b14f-ece4e0db3814",
+    "d75cd0f0-a187-4b33-8a22-e148b701b0e4",
+    "8799ae21-f6d1-451a-8d3b-2cb4867a475d",
+    "187b0dd2-8e6a-462a-b606-1abaae13d830",
+    "b9da903e-bfa0-44e0-b606-2cdc66d96c8a"
+  ],
+  "atlas": "1a08de53-e6f4-498c-bc83-cff492b29c46",
+  "scale": 1,
+  "subMetas": {}
+}

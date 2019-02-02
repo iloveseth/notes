@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "effect_zhuanlight",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.13333333333333333,
+  "sample": 30,
+  "speed": 0.25,
+  "wrapMode": "2",
+  "curveData": {
+    "comps": {
+      "Sprite_": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d42f5b30-4f26-4868-a503-ff28eb6d850d"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "185e43a5-222e-4191-9871-1daa682cfc81"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "ffdad36e-7dc0-4961-9b7a-9fb2380e957b"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "0ad730f7-4447-4114-85cc-56e32d8a0b41"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "71531295-0ee7-439c-9596-c60e3f46ccf3"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

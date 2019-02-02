@@ -1,0 +1,181 @@
+
+tufashi.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00000
+  rotate: false
+  xy: 687, 377
+  size: 131, 130
+  orig: 512, 512
+  offset: 123, 193
+  index: -1
+00015
+  rotate: false
+  xy: 687, 377
+  size: 131, 130
+  orig: 512, 512
+  offset: 123, 193
+  index: -1
+idle0000
+  rotate: false
+  xy: 687, 377
+  size: 131, 130
+  orig: 512, 512
+  offset: 123, 193
+  index: -1
+00001
+  rotate: true
+  xy: 215, 272
+  size: 184, 174
+  orig: 512, 512
+  offset: 66, 148
+  index: -1
+00002
+  rotate: false
+  xy: 732, 815
+  size: 201, 189
+  orig: 512, 512
+  offset: 43, 136
+  index: -1
+00003
+  rotate: false
+  xy: 2, 46
+  size: 205, 201
+  orig: 512, 512
+  offset: 35, 129
+  index: -1
+00004
+  rotate: false
+  xy: 2, 249
+  size: 211, 207
+  orig: 512, 512
+  offset: 32, 127
+  index: -1
+00005
+  rotate: false
+  xy: 215, 136
+  size: 144, 134
+  orig: 512, 512
+  offset: 97, 188
+  index: -1
+00006
+  rotate: false
+  xy: 511, 809
+  size: 219, 195
+  orig: 512, 512
+  offset: 115, 175
+  index: -1
+00007
+  rotate: false
+  xy: 2, 458
+  size: 258, 253
+  orig: 512, 512
+  offset: 126, 169
+  index: -1
+00008
+  rotate: false
+  xy: 2, 713
+  size: 277, 291
+  orig: 512, 512
+  offset: 110, 155
+  index: -1
+00009
+  rotate: false
+  xy: 281, 744
+  size: 228, 260
+  orig: 512, 512
+  offset: 133, 168
+  index: -1
+00010
+  rotate: true
+  xy: 511, 646
+  size: 161, 190
+  orig: 512, 512
+  offset: 161, 199
+  index: -1
+00011
+  rotate: true
+  xy: 511, 483
+  size: 161, 174
+  orig: 512, 512
+  offset: 164, 200
+  index: -1
+00012
+  rotate: false
+  xy: 703, 647
+  size: 147, 160
+  orig: 512, 512
+  offset: 165, 197
+  index: -1
+00013
+  rotate: false
+  xy: 391, 580
+  size: 118, 162
+  orig: 512, 512
+  offset: 169, 184
+  index: -1
+00014
+  rotate: false
+  xy: 852, 665
+  size: 119, 148
+  orig: 512, 512
+  offset: 143, 186
+  index: -1
+idle0001
+  rotate: false
+  xy: 486, 2
+  size: 131, 130
+  orig: 512, 512
+  offset: 125, 192
+  index: -1
+idle0002
+  rotate: false
+  xy: 820, 249
+  size: 131, 129
+  orig: 512, 512
+  offset: 127, 193
+  index: -1
+idle0003
+  rotate: true
+  xy: 820, 513
+  size: 132, 129
+  orig: 512, 512
+  offset: 125, 194
+  index: -1
+idle0004
+  rotate: true
+  xy: 361, 134
+  size: 136, 128
+  orig: 512, 512
+  offset: 120, 195
+  index: -1
+idle0005
+  rotate: false
+  xy: 209, 8
+  size: 138, 126
+  orig: 512, 512
+  offset: 116, 196
+  index: -1
+idle0006
+  rotate: false
+  xy: 349, 2
+  size: 135, 130
+  orig: 512, 512
+  offset: 117, 192
+  index: -1
+idle0007
+  rotate: false
+  xy: 687, 509
+  size: 131, 135
+  orig: 512, 512
+  offset: 121, 189
+  index: -1
+idle0008
+  rotate: true
+  xy: 820, 380
+  size: 131, 130
+  orig: 512, 512
+  offset: 123, 193
+  index: -1

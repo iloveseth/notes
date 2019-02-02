@@ -1,0 +1,118 @@
+
+Diyuquan.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 640, 900
+  size: 221, 119
+  orig: 221, 119
+  offset: 0, 0
+  index: -1
+ed_l
+  rotate: false
+  xy: 130, 215
+  size: 99, 112
+  orig: 99, 112
+  offset: 0, 0
+  index: -1
+ed_r
+  rotate: true
+  xy: 340, 490
+  size: 47, 99
+  orig: 47, 99
+  offset: 0, 0
+  index: -1
+ht_l
+  rotate: true
+  xy: 863, 911
+  size: 108, 155
+  orig: 108, 155
+  offset: 0, 0
+  index: -1
+hz_l
+  rotate: true
+  xy: 560, 531
+  size: 210, 76
+  orig: 210, 76
+  offset: 0, 0
+  index: -1
+hz_r
+  rotate: false
+  xy: 811, 786
+  size: 45, 112
+  orig: 45, 112
+  offset: 0, 0
+  index: -1
+qm_m
+  rotate: true
+  xy: 457, 538
+  size: 203, 101
+  orig: 203, 101
+  offset: 0, 0
+  index: -1
+qt
+  rotate: false
+  xy: 2, 471
+  size: 336, 270
+  orig: 336, 270
+  offset: 0, 0
+  index: -1
+qt_l
+  rotate: false
+  xy: 2, 146
+  size: 126, 181
+  orig: 126, 181
+  offset: 0, 0
+  index: -1
+qt_r
+  rotate: true
+  xy: 640, 754
+  size: 144, 169
+  orig: 144, 169
+  offset: 0, 0
+  index: -1
+qz_l
+  rotate: false
+  xy: 2, 329
+  size: 190, 140
+  orig: 190, 140
+  offset: 0, 0
+  index: -1
+wb_l
+  rotate: false
+  xy: 340, 539
+  size: 115, 202
+  orig: 115, 202
+  offset: 0, 0
+  index: -1
+xb_l
+  rotate: false
+  xy: 2, 42
+  size: 119, 102
+  orig: 119, 102
+  offset: 0, 0
+  index: -1
+xp_l
+  rotate: false
+  xy: 194, 343
+  size: 160, 126
+  orig: 160, 126
+  offset: 0, 0
+  index: -1
+yc_l
+  rotate: false
+  xy: 2, 2
+  size: 30, 38
+  orig: 30, 38
+  offset: 0, 0
+  index: -1
+yingzi
+  rotate: false
+  xy: 2, 743
+  size: 636, 276
+  orig: 636, 276
+  offset: 0, 0
+  index: -1

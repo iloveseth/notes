@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "7eb01b39-b80d-4b28-80fb-28fb2d61d45d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "shijieboss_img_yuanren1": {
+      "ver": "1.0.3",
+      "uuid": "76344ff5-8889-49b1-9532-e875e3c5eb63",
+      "rawTextureUuid": "7eb01b39-b80d-4b28-80fb-28fb2d61d45d",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 636,
+      "height": 142,
+      "rawWidth": 636,
+      "rawHeight": 142,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "399d746c-868e-4f2e-9014-e24f30ef7b77",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "choujiang_img_quan": {
+      "ver": "1.0.3",
+      "uuid": "d285bb28-ac9f-40ba-a242-3bed1975c59d",
+      "rawTextureUuid": "399d746c-868e-4f2e-9014-e24f30ef7b77",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 84,
+      "height": 84,
+      "rawWidth": 84,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

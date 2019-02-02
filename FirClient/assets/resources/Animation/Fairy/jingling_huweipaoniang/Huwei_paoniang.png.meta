@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "6a2b8ba9-77cb-4fad-984f-03721f443831",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Huwei_paoniang": {
+      "ver": "1.0.3",
+      "uuid": "494d381d-28d3-4fd9-aed3-10c55f214567",
+      "rawTextureUuid": "6a2b8ba9-77cb-4fad-984f-03721f443831",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1015,
+      "height": 508,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

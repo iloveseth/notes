@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "b04d1d33-0907-434f-9c0a-00fda303da16",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "image_soulston": {
+      "ver": "1.0.3",
+      "uuid": "e0bb24d7-375d-4765-bbc7-4ee270451aa3",
+      "rawTextureUuid": "b04d1d33-0907-434f-9c0a-00fda303da16",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 1,
+      "width": 78,
+      "height": 82,
+      "rawWidth": 84,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

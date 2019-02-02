@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "34d6368b-bf7f-41b1-9084-28f2828fe61f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "zhucheng_btn_renwu2": {
+      "ver": "1.0.3",
+      "uuid": "e89bc743-ae81-4702-902b-4afe1319b5e0",
+      "rawTextureUuid": "34d6368b-bf7f-41b1-9084-28f2828fe61f",
+      "trimType": "custom",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 330,
+      "height": 275,
+      "rawWidth": 330,
+      "rawHeight": 275,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

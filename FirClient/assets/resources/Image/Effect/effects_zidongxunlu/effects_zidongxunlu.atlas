@@ -1,0 +1,90 @@
+
+effects_zidongxunlu.png
+size: 1024,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_zidongxunlu_0001
+  rotate: false
+  xy: 556, 2
+  size: 74, 21
+  orig: 128, 21
+  offset: 12, 0
+  index: -1
+effects_zidongxunlu_0002
+  rotate: false
+  xy: 460, 2
+  size: 94, 21
+  orig: 128, 21
+  offset: 12, 0
+  index: -1
+effects_zidongxunlu_0003
+  rotate: false
+  xy: 577, 25
+  size: 94, 21
+  orig: 128, 21
+  offset: 12, 0
+  index: -1
+effects_zidongxunlu_0004
+  rotate: false
+  xy: 353, 2
+  size: 105, 21
+  orig: 128, 21
+  offset: 12, 0
+  index: -1
+effects_zidongxunlu_0005
+  rotate: false
+  xy: 470, 25
+  size: 105, 21
+  orig: 128, 21
+  offset: 12, 0
+  index: -1
+effects_zidongxunlu_0006
+  rotate: false
+  xy: 2, 2
+  size: 115, 21
+  orig: 128, 21
+  offset: 12, 0
+  index: -1
+effects_zidongxunlu_0007
+  rotate: false
+  xy: 119, 25
+  size: 115, 21
+  orig: 128, 21
+  offset: 12, 0
+  index: -1
+effects_zidongxunlu_0008
+  rotate: false
+  xy: 119, 2
+  size: 115, 21
+  orig: 128, 21
+  offset: 12, 0
+  index: -1
+effects_zidongxunlu_0009
+  rotate: false
+  xy: 236, 25
+  size: 115, 21
+  orig: 128, 21
+  offset: 12, 0
+  index: -1
+effects_zidongxunlu_0010
+  rotate: false
+  xy: 236, 2
+  size: 115, 21
+  orig: 128, 21
+  offset: 12, 0
+  index: -1
+effects_zidongxunlu_0011
+  rotate: false
+  xy: 353, 25
+  size: 115, 21
+  orig: 128, 21
+  offset: 12, 0
+  index: -1
+effects_zidongxunlu_0012
+  rotate: false
+  xy: 2, 25
+  size: 115, 21
+  orig: 128, 21
+  offset: 12, 0
+  index: -1

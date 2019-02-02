@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "a6a344c1-2127-40c9-92ad-d4a45bfe75d7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "zhucheng_img_chongbang01": {
+      "ver": "1.0.3",
+      "uuid": "38b000ab-64f5-48ac-a9ec-4881c144d8ff",
+      "rawTextureUuid": "a6a344c1-2127-40c9-92ad-d4a45bfe75d7",
+      "trimType": "custom",
+      "trimThreshold": 0,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 4.5,
+      "trimX": 8,
+      "trimY": 3,
+      "width": 60,
+      "height": 60,
+      "rawWidth": 75,
+      "rawHeight": 75,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

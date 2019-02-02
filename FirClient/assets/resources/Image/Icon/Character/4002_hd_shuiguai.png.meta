@@ -1,0 +1,30 @@
+{
+  "ver": "2.0.0",
+  "uuid": "425e3867-09a6-4384-9ee4-d34413d2dc43",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "4002_hd_shuiguai": {
+      "ver": "1.0.3",
+      "uuid": "e88b3691-277c-4785-8ddb-992246e88b27",
+      "rawTextureUuid": "425e3867-09a6-4384-9ee4-d34413d2dc43",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -15.5,
+      "offsetY": 5,
+      "trimX": 204,
+      "trimY": 172,
+      "width": 73,
+      "height": 158,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,300 @@
+
+tufashi.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+girl_0010_hair
+  rotate: false
+  xy: 737, 214
+  size: 72, 55
+  orig: 72, 55
+  offset: 0, 0
+  index: -1
+girl_00118_hair
+  rotate: true
+  xy: 173, 5
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+girl_0016_hair
+  rotate: false
+  xy: 914, 424
+  size: 107, 86
+  orig: 107, 86
+  offset: 0, 0
+  index: -1
+girl_0017_hair
+  rotate: false
+  xy: 737, 271
+  size: 73, 96
+  orig: 73, 96
+  offset: 0, 0
+  index: -1
+girl_001_arm_l
+  rotate: true
+  xy: 982, 278
+  size: 55, 30
+  orig: 55, 30
+  offset: 0, 0
+  index: -1
+girl_001_arm_r
+  rotate: false
+  xy: 538, 249
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+girl_001_body
+  rotate: false
+  xy: 464, 297
+  size: 121, 213
+  orig: 121, 213
+  offset: 0, 0
+  index: -1
+girl_001_ear_l
+  rotate: false
+  xy: 812, 223
+  size: 79, 67
+  orig: 79, 67
+  offset: 0, 0
+  index: -1
+girl_001_ear_r
+  rotate: false
+  xy: 411, 45
+  size: 74, 118
+  orig: 74, 118
+  offset: 0, 0
+  index: -1
+girl_001_effect
+  rotate: false
+  xy: 899, 369
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+girl_001_eye
+  rotate: false
+  xy: 982, 251
+  size: 40, 25
+  orig: 40, 25
+  offset: 0, 0
+  index: -1
+girl_001_hair
+  rotate: false
+  xy: 758, 369
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+girl_001_hand_l
+  rotate: false
+  xy: 672, 216
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+girl_001_hand_r
+  rotate: false
+  xy: 255, 22
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+girl_001_head
+  rotate: true
+  xy: 89, 7
+  size: 66, 82
+  orig: 66, 82
+  offset: 0, 0
+  index: -1
+girl_001_leg_l
+  rotate: false
+  xy: 620, 195
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: -1
+girl_001_leg_r
+  rotate: true
+  xy: 2, 75
+  size: 142, 288
+  orig: 142, 288
+  offset: 0, 0
+  index: -1
+girl_001_tail
+  rotate: false
+  xy: 371, 16
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+girl_002_arm_l
+  rotate: false
+  xy: 563, 192
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+girl_002_arm_r
+  rotate: true
+  xy: 321, 165
+  size: 114, 130
+  orig: 114, 130
+  offset: 0, 0
+  index: -1
+girl_002_body
+  rotate: false
+  xy: 292, 2
+  size: 30, 49
+  orig: 30, 49
+  offset: 0, 0
+  index: -1
+girl_002_eye
+  rotate: false
+  xy: 538, 265
+  size: 47, 30
+  orig: 47, 30
+  offset: 0, 0
+  index: -1
+girl_002_hair
+  rotate: false
+  xy: 893, 189
+  size: 75, 62
+  orig: 75, 62
+  offset: 0, 0
+  index: -1
+girl_002_head
+  rotate: true
+  xy: 510, 180
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+girl_002_leg_l
+  rotate: true
+  xy: 758, 389
+  size: 121, 154
+  orig: 121, 154
+  offset: 0, 0
+  index: -1
+girl_002_leg_r
+  rotate: false
+  xy: 453, 173
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+girl_003_arm_r
+  rotate: false
+  xy: 324, 14
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+girl_003_hair
+  rotate: true
+  xy: 2, 6
+  size: 67, 85
+  orig: 67, 85
+  offset: 0, 0
+  index: -1
+girl_004_hair
+  rotate: false
+  xy: 899, 253
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+girl_004_leg_l
+  rotate: false
+  xy: 292, 201
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+girl_005_effect
+  rotate: false
+  xy: 292, 53
+  size: 117, 110
+  orig: 117, 110
+  offset: 0, 0
+  index: -1
+girl_005_hair
+  rotate: true
+  xy: 464, 245
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+girl_006_effect
+  rotate: true
+  xy: 914, 335
+  size: 87, 100
+  orig: 87, 100
+  offset: 0, 0
+  index: -1
+girl_006_hair
+  rotate: false
+  xy: 713, 210
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+girl_007_hair
+  rotate: true
+  xy: 255, 2
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+girl_008_hair
+  rotate: false
+  xy: 812, 292
+  size: 85, 95
+  orig: 85, 95
+  offset: 0, 0
+  index: -1
+girl_009_hair
+  rotate: false
+  xy: 321, 281
+  size: 141, 229
+  orig: 141, 229
+  offset: 0, 0
+  index: -1
+girl_weapon_001_staves
+  rotate: false
+  xy: 587, 251
+  size: 148, 116
+  orig: 148, 116
+  offset: 0, 0
+  index: -1
+girl_weapon_002_staves
+  rotate: false
+  xy: 587, 369
+  size: 169, 141
+  orig: 169, 141
+  offset: 0, 0
+  index: -1
+girl_weapon_003_staves
+  rotate: false
+  xy: 2, 219
+  size: 317, 291
+  orig: 317, 291
+  offset: 0, 0
+  index: -1
+girl_weapon_004_staves
+  rotate: true
+  xy: 790, 376
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+girl_weapon_005_staves
+  rotate: true
+  xy: 311, 203
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1

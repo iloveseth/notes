@@ -1,0 +1,146 @@
+
+fuli.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fuli_01
+  rotate: false
+  xy: 308, 105
+  size: 249, 52
+  orig: 350, 75
+  offset: 47, 12
+  index: -1
+fuli_02
+  rotate: false
+  xy: 308, 2
+  size: 186, 55
+  orig: 350, 75
+  offset: 82, 12
+  index: -1
+fuli_03
+  rotate: false
+  xy: 575, 163
+  size: 249, 58
+  orig: 350, 75
+  offset: 50, 11
+  index: -1
+fuli_04
+  rotate: false
+  xy: 325, 300
+  size: 302, 61
+  orig: 350, 75
+  offset: 23, 9
+  index: -1
+fuli_05
+  rotate: false
+  xy: 2, 6
+  size: 304, 65
+  orig: 350, 75
+  offset: 21, 6
+  index: -1
+fuli_06
+  rotate: false
+  xy: 646, 435
+  size: 314, 68
+  orig: 350, 75
+  offset: 20, 5
+  index: -1
+fuli_07
+  rotate: false
+  xy: 2, 223
+  size: 317, 65
+  orig: 350, 75
+  offset: 18, 5
+  index: -1
+fuli_08
+  rotate: false
+  xy: 325, 363
+  size: 319, 67
+  orig: 350, 75
+  offset: 17, 4
+  index: -1
+fuli_09
+  rotate: false
+  xy: 2, 362
+  size: 321, 69
+  orig: 350, 75
+  offset: 16, 3
+  index: -1
+fuli_10
+  rotate: false
+  xy: 2, 73
+  size: 301, 73
+  orig: 350, 75
+  offset: 26, 1
+  index: -1
+fuli_11
+  rotate: false
+  xy: 611, 223
+  size: 248, 74
+  orig: 350, 75
+  offset: 47, 1
+  index: -1
+fuli_12
+  rotate: false
+  xy: 308, 59
+  size: 201, 44
+  orig: 350, 75
+  offset: 74, 17
+  index: -1
+fuli_13
+  rotate: false
+  xy: 308, 159
+  size: 265, 62
+  orig: 350, 75
+  offset: 42, 8
+  index: -1
+fuli_14
+  rotate: false
+  xy: 646, 299
+  size: 304, 64
+  orig: 350, 75
+  offset: 21, 7
+  index: -1
+fuli_15
+  rotate: false
+  xy: 646, 365
+  size: 314, 68
+  orig: 350, 75
+  offset: 20, 5
+  index: -1
+fuli_16
+  rotate: false
+  xy: 2, 290
+  size: 317, 70
+  orig: 350, 75
+  offset: 18, 4
+  index: -1
+fuli_17
+  rotate: false
+  xy: 325, 432
+  size: 319, 71
+  orig: 350, 75
+  offset: 17, 4
+  index: -1
+fuli_18
+  rotate: false
+  xy: 2, 433
+  size: 321, 70
+  orig: 350, 75
+  offset: 16, 3
+  index: -1
+fuli_19
+  rotate: false
+  xy: 2, 148
+  size: 304, 73
+  orig: 350, 75
+  offset: 23, 1
+  index: -1
+fuli_20
+  rotate: false
+  xy: 321, 223
+  size: 288, 75
+  orig: 350, 75
+  offset: 33, 0
+  index: -1

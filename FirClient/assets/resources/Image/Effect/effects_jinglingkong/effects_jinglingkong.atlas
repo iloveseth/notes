@@ -1,0 +1,90 @@
+
+effects_jinglingkong.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects_jinglingkong0001
+  rotate: true
+  xy: 146, 122
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+effects_jinglingkong0002
+  rotate: true
+  xy: 290, 122
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+effects_jinglingkong0003
+  rotate: true
+  xy: 434, 122
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+effects_jinglingkong0004
+  rotate: true
+  xy: 578, 122
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+effects_jinglingkong0005
+  rotate: true
+  xy: 722, 122
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+effects_jinglingkong0006
+  rotate: true
+  xy: 866, 122
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+effects_jinglingkong0007
+  rotate: true
+  xy: 2, 2
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+effects_jinglingkong0008
+  rotate: true
+  xy: 146, 2
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+effects_jinglingkong0009
+  rotate: true
+  xy: 290, 2
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+effects_jinglingkong0010
+  rotate: true
+  xy: 434, 2
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+effects_jinglingkong0011
+  rotate: true
+  xy: 578, 2
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+effects_jinglingkong0012
+  rotate: true
+  xy: 2, 122
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
