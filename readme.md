@@ -61,3 +61,13 @@ _.xor([arrays])//创建一个包含了所有唯一值的数组||By,With
 
 ```
 ```
+
+### 根据单个物料生成ICON
+
+```
+图标工场：https://icon.wuruihong.com/
+```
+
+```
+https://www.kanxue.com/chm.htm
+```
